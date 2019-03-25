@@ -1,0 +1,2652 @@
+[
+  {
+    "data": {
+      "list": [
+        {
+          "userName": "匿名用户",
+          "userPicUrl": "",
+          "userID": 0,
+          "commentTime": "2019-03-12",
+          "score": 5,
+          "deliveryTime": "41分钟送达",
+          "content": "可乐直接给一桶，有点霸气了！\uD83D\uDE02\uD83D\uDE02\uD83D\uDE02除了给你一个好评，还想给你点个赞！",
+          "praiseDish": "",
+          "label": "",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/9671ecec5d2b95cfa61c74922082c19539619.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/9671ecec5d2b95cfa61c74922082c19539619.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/9671ecec5d2b95cfa61c74922082c19539619.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 1
+        },
+        {
+          "userName": "匿名用户",
+          "userPicUrl": "",
+          "userID": 0,
+          "commentTime": "2019-03-18",
+          "score": 5,
+          "deliveryTime": "37分钟送达",
+          "content": "配送费太贵了。。",
+          "praiseDish": "",
+          "label": "",
+          "pictures": [],
+          "isAnonymous": 1
+        },
+        {
+          "userName": "kwy409435413",
+          "userPicUrl": "",
+          "userID": 809155840,
+          "commentTime": "2019-03-08",
+          "score": 5,
+          "deliveryTime": "14分钟送达",
+          "content": "味道一直挺好。#香辣鸡腿堡(汉堡)ST##老北京鸡肉卷T#",
+          "praiseDish": "香辣鸡腿堡(汉堡)ST,老北京鸡肉卷T",
+          "label": "礼貌热情,快速准时,货品完好,仪表整洁",
+          "pictures": [],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "Eql587242421",
+          "userPicUrl": "https://img.meituan.net/avatar/4846147712ddce6c6b2d990b399088e418535.jpg",
+          "userID": 693560587,
+          "commentTime": "2019-02-18",
+          "score": 5,
+          "deliveryTime": "43分钟送达",
+          "content": "饮料没有吸管 汉堡包没有手套     外卖伙计辛苦五星好评   商家没⭐",
+          "praiseDish": "",
+          "label": "风雨无阻,礼貌热情,仪表整洁,货品完好,快速准时",
+          "pictures": [],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "chl328089259",
+          "userPicUrl": "",
+          "userID": 914740412,
+          "commentTime": "2019-03-07",
+          "score": 5,
+          "deliveryTime": "41分钟送达",
+          "content": "#二块香辣鸡翅炸鸡TN##二块香辣鸡翅炸鸡TN#",
+          "praiseDish": "",
+          "label": "",
+          "pictures": [],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "影子2168",
+          "userPicUrl": "https://img.meituan.net/avatar/d4d9b9581976f5ad2d2100cc1ddd0c8c86544.jpg",
+          "userID": 281377190,
+          "commentTime": "2019-02-14",
+          "score": 4,
+          "deliveryTime": "31分钟送达",
+          "content": "今天的薯条很难吃，点的波纹薯条，里面混合有其他的。",
+          "praiseDish": "",
+          "label": "",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/e04f04831b629109b80f98e23f0d542f323039.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/e04f04831b629109b80f98e23f0d542f323039.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/e04f04831b629109b80f98e23f0d542f323039.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "Wlh440381933",
+          "userPicUrl": "",
+          "userID": 716857938,
+          "commentTime": "2019-02-16",
+          "score": 4,
+          "deliveryTime": "31分钟送达",
+          "content": "味道还好，东西有点小，老公说不太够吃。\uD83D\uDE04",
+          "praiseDish": "四块香辣鸡翅T,新奥尔良烤鸡腿堡ST,鸡肉火腿帕尼尼ST,藤椒肯大大鸡排T,二块新奥尔良烤翅T",
+          "label": "快速准时,礼貌热情,仪表整洁,货品完好,风雨无阻",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/dbcf96d3414b4709db9b3b88c2d04f59254067.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/dbcf96d3414b4709db9b3b88c2d04f59254067.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/dbcf96d3414b4709db9b3b88c2d04f59254067.jpg@330w_330h_1e_1c"
+            },
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/f37a5325aabcf39e9d3c9353a90ea420262623.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/f37a5325aabcf39e9d3c9353a90ea420262623.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/f37a5325aabcf39e9d3c9353a90ea420262623.jpg@330w_330h_1e_1c"
+            },
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/2f3e740e6d3ea618dd20df7bb5016aa2292527.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/2f3e740e6d3ea618dd20df7bb5016aa2292527.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/2f3e740e6d3ea618dd20df7bb5016aa2292527.jpg@330w_330h_1e_1c"
+            },
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/e8fa57cf85254617ddc4d959400eb297265375.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/e8fa57cf85254617ddc4d959400eb297265375.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/e8fa57cf85254617ddc4d959400eb297265375.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "吃薯条爱蘸酱",
+          "userPicUrl": "",
+          "userID": 229707456,
+          "commentTime": "2019-02-28",
+          "score": 5,
+          "deliveryTime": "44分钟送达",
+          "content": "短发丝 被我吃到了。",
+          "praiseDish": "",
+          "label": "",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/4ee3a37c2d087e737bdff4d1ff7a8925164995.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/4ee3a37c2d087e737bdff4d1ff7a8925164995.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/4ee3a37c2d087e737bdff4d1ff7a8925164995.jpg@330w_330h_1e_1c"
+            },
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/eaba284c0b096f5fd40b2ba46bb4234e187381.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/eaba284c0b096f5fd40b2ba46bb4234e187381.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/eaba284c0b096f5fd40b2ba46bb4234e187381.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "Etm251822168",
+          "userPicUrl": "",
+          "userID": 211662110,
+          "commentTime": "2019-02-10",
+          "score": 5,
+          "deliveryTime": "43分钟送达",
+          "content": "下雪天，路上积雪特不好走，小哥还是第一时间送达，媳妇交代一定五星好评，太不容易了，在此感谢，愿路途平安，解他人所需",
+          "praiseDish": "",
+          "label": "风雨无阻,礼貌热情,快速准时,货品完好,仪表整洁",
+          "pictures": [],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "恒月丶",
+          "userPicUrl": "https://img.meituan.net/avatar/b6784eefa1152f6afd874d211f8537358928.jpg",
+          "userID": 269451186,
+          "commentTime": "2019-02-24",
+          "score": 5,
+          "deliveryTime": "42分钟送达",
+          "content": "真的赞！！！松花蛋！",
+          "praiseDish": "",
+          "label": "货品完好,仪表整洁,风雨无阻,快速准时,礼貌热情",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/6c488425213aec73e840e645eb83c31e164632.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/6c488425213aec73e840e645eb83c31e164632.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/6c488425213aec73e840e645eb83c31e164632.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "匿名用户",
+          "userPicUrl": "",
+          "userID": 0,
+          "commentTime": "2019-03-12",
+          "score": 2,
+          "deliveryTime": "40分钟送达",
+          "content": "不满意，留言多配送番茄沙司，却当作视而不见……哪怕多给一包又能怎么样？去店里都是可以去多要的！",
+          "praiseDish": "波纹霸王薯条T,黄金鸡块5块装T",
+          "label": "",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/8d8e2e63d5396e3d6608976057a3b4ec194007.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/8d8e2e63d5396e3d6608976057a3b4ec194007.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/8d8e2e63d5396e3d6608976057a3b4ec194007.jpg@330w_330h_1e_1c"
+            },
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/4ca488bfad72d074ad1e71e5b80e4af8176957.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/4ca488bfad72d074ad1e71e5b80e4af8176957.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/4ca488bfad72d074ad1e71e5b80e4af8176957.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 1
+        },
+        {
+          "userName": "匿名用户",
+          "userPicUrl": "",
+          "userID": 0,
+          "commentTime": "2019-02-20",
+          "score": 2,
+          "deliveryTime": "43分钟送达",
+          "content": "感觉像是之前做好的然后在热的，汉堡没有在店里面的好吃，鸡肉卷感觉像是剩的口感可差一股怪味，总体感觉不好吃，土豆泥和圣代也一般。",
+          "praiseDish": "",
+          "label": "仪表整洁,礼貌热情,货品完好",
+          "pictures": [],
+          "isAnonymous": 1
+        },
+        {
+          "userName": "匿名用户",
+          "userPicUrl": "",
+          "userID": 0,
+          "commentTime": "2019-03-13",
+          "score": 1,
+          "deliveryTime": "42分钟送达",
+          "content": "建议以后都不要再吃肯德基。送到放那就走了，少给我一杯饮料，打电话反映情况步骤特别烦琐，又是确认这又是确认那，最后转人工了还没人接。打了几次好不容易打通了服务态度特别差，非要按照她说的各种问你，都不能耐心听你说你遇到了什么问题，最后说补给我一杯一会给我送过来，等了两个多小时都没送。后来再给他们打电话又各种程序之后没人接。虽然最后有人联系我腿我一杯饮料的钱，但是无法原谅。本身很小的一件事，维权却那么难，这种服务态度我只能祝你们早日倒闭。",
+          "praiseDish": "",
+          "label": "联系沟通困难,送错餐",
+          "pictures": [],
+          "isAnonymous": 1
+        },
+        {
+          "userName": "kxs382356220",
+          "userPicUrl": "",
+          "userID": 1256795583,
+          "commentTime": "2019-02-06",
+          "score": 3,
+          "deliveryTime": "56分钟送达",
+          "content": "能怎么说呢，过年吗，有口吃的就不错了。就是小的可怜",
+          "praiseDish": "",
+          "label": "礼貌热情,货品完好,风雨无阻,仪表整洁,快速准时",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/1bd3e424181405001c16c2a99c7a4c3852937.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/1bd3e424181405001c16c2a99c7a4c3852937.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/1bd3e424181405001c16c2a99c7a4c3852937.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "HRX665536595",
+          "userPicUrl": "",
+          "userID": 170297045,
+          "commentTime": "2019-02-22",
+          "score": 1,
+          "deliveryTime": "18分钟送达",
+          "content": "说好不要辣，为什么给我辣酱?\n",
+          "praiseDish": "新奥尔良烤鸡腿堡ST,芙蓉荟蔬汤T,黄金鸡块5块装T,红豆派T",
+          "label": "仪表整洁,货品完好,风雨无阻,快速准时,礼貌热情",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/f35dfea014dd75cef45761091b73e8c326108.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/f35dfea014dd75cef45761091b73e8c326108.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/f35dfea014dd75cef45761091b73e8c326108.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "Lawlight007",
+          "userPicUrl": "https://img.meituan.net/avatar/2239e3ccae6e01998ebf539ca8b71ed116476.jpg",
+          "userID": 646949048,
+          "commentTime": "2019-02-28",
+          "score": 3,
+          "deliveryTime": "40分钟送达",
+          "content": "#辣堡瘦肉粥套餐ST#从来没吃过这么咸的辣翅和腿堡",
+          "praiseDish": "",
+          "label": "",
+          "pictures": [],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "bHa671885976",
+          "userPicUrl": "",
+          "userID": 2274059376,
+          "commentTime": "2019-03-03",
+          "score": 5,
+          "deliveryTime": "25分钟送达",
+          "content": "好评，快送很给力",
+          "praiseDish": "培根蛋帕尼S热浆薯T,牛肉蛋花粥T",
+          "label": "快速准时,礼貌热情,货品完好,仪表整洁,风雨无阻",
+          "pictures": [],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "DTn796746615",
+          "userPicUrl": "https://img.meituan.net/avatar/7ef3f4513a15429fa967fdd660d5173b77898.jpg",
+          "userID": 193929929,
+          "commentTime": "2019-03-03",
+          "score": 5,
+          "deliveryTime": "41分钟送达",
+          "content": "很棒哦！！！！！！！",
+          "praiseDish": "",
+          "label": "仪表整洁,货品完好,风雨无阻,快速准时,礼貌热情",
+          "pictures": [],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "兔子小花421",
+          "userPicUrl": "https://img.meituan.net/avatar/a3834e16221387b719610c1b0f01d7fa10361.jpg",
+          "userID": 238911327,
+          "commentTime": "2019-03-03",
+          "score": 5,
+          "deliveryTime": "27分钟送达",
+          "content": "十分钟就送到了 谢谢么么哒",
+          "praiseDish": "香辣鸡腿堡(汉堡)ST,劲爆鸡米花T,二块新奥尔良烤翅T,二块香辣鸡翅(炸鸡)T,红豆派T",
+          "label": "仪表整洁,货品完好,礼貌热情,风雨无阻,快速准时",
+          "pictures": [],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "匿名用户",
+          "userPicUrl": "",
+          "userID": 0,
+          "commentTime": "2019-03-02",
+          "score": 2,
+          "deliveryTime": "41分钟送达",
+          "content": "不是很好吃，都有点凉了",
+          "praiseDish": "十块新奥尔良烤翅T,波纹霸王薯条T",
+          "label": "",
+          "pictures": [],
+          "isAnonymous": 1
+        }
+      ],
+      "recordCount": 5963,
+      "startIndex": 0,
+      "nextStartIndex": 20,
+      "isEnd": false,
+      "shopId": 1177828450,
+      "mtWmPoiId": "1101076173700194",
+      "dpCommentNum": 0,
+      "PraiseRatio": "商家好评率96%",
+      "buzCode": 0,
+      "qualityScore": 4.6,
+      "packScore": 4.6,
+      "integratedScore": 4.7,
+      "shopScore": 4.7,
+      "deliveryScore": 4.9,
+      "commentLabels": [
+        { "content": "全部(5963)", "type": 1, "isSelected": 1, "ID": 0 },
+        { "content": "好评(5756)", "type": 1, "isSelected": 0, "ID": 1 },
+        { "content": "差评(137)", "type": 1, "isSelected": 0, "ID": 3 },
+        { "content": "有图评价(74)", "type": 1, "isSelected": 0, "ID": 5 },
+        { "content": "味道赞(74)", "type": 2, "isSelected": 0, "ID": 75 },
+        { "content": "服务好(53)", "type": 2, "isSelected": 0, "ID": 39 },
+        { "content": "满意(42)", "type": 2, "isSelected": 0, "ID": 34 },
+        { "content": "贵(9)", "type": 2, "isSelected": 0, "ID": 62 },
+        { "content": "包装好(4)", "type": 2, "isSelected": 0, "ID": 29 },
+        { "content": "家人喜欢(3)", "type": 2, "isSelected": 0, "ID": 83 }
+      ]
+    },
+    "code": 0,
+    "msg": "成功"
+  },
+  {
+    "data": {
+      "list": [
+        {
+          "userName": "jdudn",
+          "userPicUrl": "https://img.meituan.net/avatar/7025ded2136f51acca32da292a9560af76191.jpg",
+          "userID": 180303992,
+          "commentTime": "2019-03-18",
+          "score": 5,
+          "deliveryTime": "11分钟送达",
+          "content": "买了好多次了 coco一直特别爱喝 家里人都喜欢喝 特别好#奶霜草莓果茶/大杯##鲜百香双响炮/大杯##奶茶三兄弟/中杯##珍珠奶茶/中杯#",
+          "praiseDish": "奶霜草莓果茶/大杯,鲜百香双响炮/大杯,奶茶三兄弟/中杯,珍珠奶茶/中杯",
+          "label": "",
+          "shopReply": "商家回复(4天后):感谢您的肯定与支持！您每一次的体验，我们都竭尽所能，我们希望把最好体验带给您，用心做品质我们一直在路上！",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/b60370da9ad44055e92febf740720bb3246631.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/b60370da9ad44055e92febf740720bb3246631.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/b60370da9ad44055e92febf740720bb3246631.jpg@330w_330h_1e_1c"
+            },
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/d9252f86f1bf6a60fc001e82987ecf58317339.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/d9252f86f1bf6a60fc001e82987ecf58317339.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/d9252f86f1bf6a60fc001e82987ecf58317339.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "FXR15099906833",
+          "userPicUrl": "",
+          "userID": 42560920,
+          "commentTime": "2019-02-21",
+          "score": 5,
+          "deliveryTime": "41分钟送达",
+          "content": "最爱coco  我就想知道送佩奇的是小哥哥还是小姐姐",
+          "praiseDish": "",
+          "label": "礼貌热情,穿戴工服,仪表整洁,风雨无阻,货品完好,快速准时",
+          "shopReply": "商家回复(1天后):可能是小哥哥吧~人生幸福的事，莫过于有一群懂你的人，你的鼓励就是我们店铺继续努力的动力，继续鼓励不要停哦！",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/a00a21ee9a674bd5712bc86aa821a996203982.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/a00a21ee9a674bd5712bc86aa821a996203982.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/a00a21ee9a674bd5712bc86aa821a996203982.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "小小暹罗猫啊",
+          "userPicUrl": "https://img.meituan.net/avatar/3f3567d498842538d486384646625b5711077.jpg",
+          "userID": 726259944,
+          "commentTime": "2019-01-31",
+          "score": 5,
+          "deliveryTime": "40分钟送达",
+          "content": "幸福就是代教老师的一句“下班”然后紧接着就是护士长一句“你明天休息，不用来上班了”\uD83C\uDF1A",
+          "praiseDish": "奶茶三兄弟/中杯",
+          "label": "",
+          "shopReply": "商家回复(15天后):人生幸福的事，莫过于有一群懂你的人，你的鼓励就是我们店铺继续努力的动力，继续鼓励不要停哦！",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/7c66399daafbdaaab9c0596b7f3e56f031705.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/7c66399daafbdaaab9c0596b7f3e56f031705.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/7c66399daafbdaaab9c0596b7f3e56f031705.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "牛奶西瓜呀",
+          "userPicUrl": "https://img.meituan.net/avatar/d34a96d020f32029730537d21f668131190527.jpg",
+          "userID": 162083322,
+          "commentTime": "2019-03-08",
+          "score": 5,
+          "deliveryTime": "31分钟送达",
+          "content": "100分 经常点COCO 的奶茶",
+          "praiseDish": "",
+          "label": "货品完好,礼貌热情,风雨无阻,穿戴工服,快速准时,仪表整洁",
+          "shopReply": "商家回复(7天后):人生幸福的事，莫过于有一群懂你的人，你的鼓励就是我们coco都可继续努力的动力，继续鼓励不要停哦！",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/1f4f96f608f43a50c5a1ee736a803463187676.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/1f4f96f608f43a50c5a1ee736a803463187676.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/1f4f96f608f43a50c5a1ee736a803463187676.jpg@330w_330h_1e_1c"
+            },
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/aa1eea49a8f60ef9049c7d9e9362b1ad191823.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/aa1eea49a8f60ef9049c7d9e9362b1ad191823.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/aa1eea49a8f60ef9049c7d9e9362b1ad191823.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "孟艾艾",
+          "userPicUrl": "https://img.meituan.net/avatar/11d40c57dda60458decf5d571f7bb08057845.jpg",
+          "userID": 18605810,
+          "commentTime": "2019-02-24",
+          "score": 4,
+          "deliveryTime": "32分钟送达",
+          "content": "买了三杯。奶茶类的都很好喝。就是果茶的水果感觉不太新鲜了。草莓是那种放久了的味道。",
+          "praiseDish": "奶茶三兄弟/中杯,青稞茶拿铁/中杯",
+          "label": "风雨无阻,仪表整洁,礼貌热情,快速准时,穿戴工服,货品完好",
+          "shopReply": "商家回复(5天后):您好，非常感谢你把遇到的麻烦及时告诉我们，COCO都可的饮品一直坚持高品质，选用的原料都是经过严格挑选，没有给您带来良好的口感十分抱歉，我们会不断改进，coco都可只愿给每位消费者带来更好的饮品和服务。",
+          "pictures": [],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "fnw533506163",
+          "userPicUrl": "",
+          "userID": 1872219148,
+          "commentTime": "2019-03-17",
+          "score": 5,
+          "deliveryTime": "30分钟送达",
+          "content": "每次都有惊喜，非常感谢您",
+          "praiseDish": "",
+          "label": "货品完好,风雨无阻,快速准时,仪表整洁,穿戴工服,礼貌热情",
+          "shopReply": "商家回复(5天后):宇宙的中心很大，大到可以装下一万种委屈。宇宙的中心很小，小到一份饮品就可以让你满足，还温暖了我的心。生活不易，一定记得好好照顾自己~",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/e4d673db883da53d4ec7b2c64b5492c0218828.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/e4d673db883da53d4ec7b2c64b5492c0218828.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/e4d673db883da53d4ec7b2c64b5492c0218828.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "ddj245851192",
+          "userPicUrl": "",
+          "userID": 1782020711,
+          "commentTime": "2019-03-20",
+          "score": 4,
+          "deliveryTime": "27分钟送达",
+          "content": "不错\uD83D\uDE0A\uD83D\uDE0A\uD83D\uDE0A\uD83D\uDE0A\uD83D\uDE0A\uD83D\uDE0A\uD83D\uDE0A\uD83D\uDE0A",
+          "praiseDish": "珍珠奶茶/大杯",
+          "label": "穿戴工服,礼貌热情,仪表整洁,风雨无阻,货品完好,快速准时",
+          "shopReply": "商家回复(2天后):亲爱的，感谢您选择品尝本店的美食，谢谢您认可我们的口味和服务，我们会继续努力，为您提供更好的服务。祝您生活愉快！",
+          "pictures": [],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "懒小喵爱睡觉",
+          "userPicUrl": "https://img.meituan.net/avatar/1c10b0dc5a5ef7221e6b50f2464219bf68077.jpg",
+          "userID": 129228169,
+          "commentTime": "2019-03-20",
+          "score": 5,
+          "deliveryTime": "35分钟送达",
+          "content": "不错，好喝！很喜欢",
+          "praiseDish": "红茶拿铁/中杯,芒果绿茶/中杯",
+          "label": "",
+          "shopReply": "商家回复(2天后):感谢您对COCO的信任与支持，您的满意就是我们奋斗的目标。欢迎下次再来！",
+          "pictures": [],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "林简246",
+          "userPicUrl": "https://img.meituan.net/avatar/59726bad9f042b409db3cc41ac59cee712825.jpg",
+          "userID": 2250180799,
+          "commentTime": "2019-03-17",
+          "score": 5,
+          "deliveryTime": "16分钟送达",
+          "content": "很好很好喝的。。。。",
+          "praiseDish": "鲜百香双响炮/大杯,珍珠奶茶/中杯",
+          "label": "风雨无阻,货品完好,礼貌热情,穿戴工服,仪表整洁,快速准时,包装精美,份量足,商家服务好",
+          "shopReply": "商家回复(5天后):人生幸福的事，莫过于有一群懂你的人，你的鼓励就是我们coco都可继续努力的动力，继续鼓励不要停哦！",
+          "pictures": [],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "匿名用户",
+          "userPicUrl": "",
+          "userID": 0,
+          "commentTime": "2019-03-23",
+          "score": 2,
+          "deliveryTime": "43分钟送达",
+          "content": "我要的是拿铁，拿铁不是应该有奶泡吗？怎么送了一杯黑咖啡来了？而且杯子还有点儿漏",
+          "praiseDish": "",
+          "label": "",
+          "pictures": [],
+          "isAnonymous": 1
+        },
+        {
+          "userName": "匿名用户",
+          "userPicUrl": "",
+          "userID": 0,
+          "commentTime": "2019-02-05",
+          "score": 3,
+          "deliveryTime": "24分钟送达",
+          "content": "没有珍珠～～～～另外建议更新打印系统～～～～这样子我也一下子看不出要不要加珍珠～～～～～#青稞奶茶/大杯#",
+          "praiseDish": "芒果绿茶/中杯",
+          "label": "",
+          "shopReply": "商家回复(10天后):首先给亲爱的您道歉，没有给您带来好的体验，您提出的问题我们一定严肃对待，期待您的下次惠顾哟！",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/c846eb056777335aaaf13c7ca6082f8275533.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/c846eb056777335aaaf13c7ca6082f8275533.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/c846eb056777335aaaf13c7ca6082f8275533.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 1
+        },
+        {
+          "userName": "匿名用户",
+          "userPicUrl": "",
+          "userID": 0,
+          "commentTime": "2019-03-19",
+          "score": 2,
+          "deliveryTime": "26分钟送达",
+          "content": "杯口没有封紧，#椰果奶茶/大杯#到了就剩下一空杯了",
+          "praiseDish": "草莓欧蕾/中杯",
+          "label": "",
+          "shopReply": "商家回复(3天后):非常抱歉，给您带来不愉快的用餐体验，我们表示万分抱歉，请您第一时间拨打门店电话，热情的小CO一定会尽量帮您解决问题。",
+          "pictures": [],
+          "isAnonymous": 1
+        },
+        {
+          "userName": "WWc608263138",
+          "userPicUrl": "",
+          "userID": 273401208,
+          "commentTime": "2019-02-19",
+          "score": 5,
+          "deliveryTime": "38分钟送达",
+          "content": "#奶茶三兄弟/大杯##珍珠奶茶/大杯##椰果奶茶/大杯##布丁奶茶/大杯#不错，大家都喜欢\uD83D\uDE04",
+          "praiseDish": "奶茶三兄弟/大杯,珍珠奶茶/大杯,椰果奶茶/大杯,布丁奶茶/大杯",
+          "label": "穿戴工服,货品完好,仪表整洁,快速准时,风雨无阻,礼貌热情",
+          "shopReply": "商家回复(3天后):人生幸福的事，莫过于有一群懂你的人，你的鼓励就是我们店铺继续努力的动力，继续鼓励不要停哦！",
+          "pictures": [],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "匿名用户",
+          "userPicUrl": "",
+          "userID": 0,
+          "commentTime": "2019-03-01",
+          "score": 1,
+          "deliveryTime": "35分钟送达",
+          "content": "要的青稞没有找都找不到",
+          "praiseDish": "",
+          "label": "快速准时",
+          "shopReply": "商家回复(14天后):很抱歉没给您带来愉快的消费体验，您的心情我非常理解，我们会优化饮品制作流程，期待您的下次体验，见证我们的改变，感谢您的支持。",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/40fe91fe55f700db318da02611ff3a5126373.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/40fe91fe55f700db318da02611ff3a5126373.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/40fe91fe55f700db318da02611ff3a5126373.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 1
+        },
+        {
+          "userName": "FMI308421014",
+          "userPicUrl": "",
+          "userID": 546038924,
+          "commentTime": "2019-02-21",
+          "score": 5,
+          "deliveryTime": "28分钟送达",
+          "content": "可爱的店家~味道自然没的说",
+          "praiseDish": "鲜芋奶茶/中杯,铁观音珍珠奶茶/大杯",
+          "label": "",
+          "shopReply": "商家回复(1天后):人生幸福的事，莫过于有一群懂你的人，你的鼓励就是我们店铺继续努力的动力，继续鼓励不要停哦！",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/3a502c71af9e11de5dcdea7973f20141443822.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/3a502c71af9e11de5dcdea7973f20141443822.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/3a502c71af9e11de5dcdea7973f20141443822.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "韩三壮",
+          "userPicUrl": "https://img.meituan.net/avatar/0f0d56bacdd7f005c38e5b56af31a3f112462.jpg",
+          "userID": 1559785388,
+          "commentTime": "2019-03-05",
+          "score": 5,
+          "deliveryTime": "21分钟送达",
+          "content": "还可以 居然还有小兔子",
+          "praiseDish": "",
+          "label": "",
+          "shopReply": "商家回复(10天后):人生幸福的事，莫过于有一群懂你的人，你的鼓励就是我们coco都可继续努力的动力，继续鼓励不要停哦！",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/e6cce5b3faf72cbfaa95e7e0f849bfb965437.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/e6cce5b3faf72cbfaa95e7e0f849bfb965437.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/e6cce5b3faf72cbfaa95e7e0f849bfb965437.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "evC787005732",
+          "userPicUrl": "",
+          "userID": 608089268,
+          "commentTime": "2019-02-23",
+          "score": 4,
+          "deliveryTime": "35分钟送达",
+          "content": "#鲜百香双响炮/大杯#微糖这么甜？？",
+          "praiseDish": "柠檬椰果养乐多/大杯,芒果养乐多/大杯",
+          "label": "",
+          "shopReply": "商家回复(6天后):您好，很抱歉没给您带来愉快的消费体验，您的心情我非常理解，我们会优化饮品制作流程，期待您的下次体验，见证我们的改变，感谢您的支持。",
+          "pictures": [],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "pEn919429959",
+          "userPicUrl": "https://img.meituan.net/avatar/fa57dee2574ce20ddde43f7163d6000d584529.jpg",
+          "userID": 280158149,
+          "commentTime": "2019-01-20",
+          "score": 5,
+          "deliveryTime": "25分钟送达",
+          "content": "外卖小哥太有爱了 在哄孩子睡觉的时候来的 没法开门短信告知让放门口 开门看到这个好暖",
+          "praiseDish": "牛奶三兄弟/中杯,红豆奶茶/中杯",
+          "label": "穿戴工服,仪表整洁,风雨无阻,货品完好,快速准时,礼貌热情",
+          "shopReply": "商家回复(5天后):感谢您对coco都可的喜爱和支持，您的意愿我们会转达给外送平台，期待您的下次体验！",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/dbd5ae7c28ac096a2d6c73190b14f721182141.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/dbd5ae7c28ac096a2d6c73190b14f721182141.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/dbd5ae7c28ac096a2d6c73190b14f721182141.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "轮舞.revolution",
+          "userPicUrl": "https://img.meituan.net/avatar/327fca9f60738285323f61a86c713b8a17043.jpg",
+          "userID": 585189243,
+          "commentTime": "2019-02-13",
+          "score": 5,
+          "deliveryTime": "59分钟送达",
+          "content": "完美#鲜芋青稞牛奶/中杯##鲜百香双响炮/大杯#",
+          "praiseDish": "鲜芋青稞牛奶/中杯,鲜百香双响炮/大杯",
+          "label": "快速准时,礼貌热情",
+          "shopReply": "商家回复(2天后):亲爱的顾客，感谢您对我们coco都可的评价与支持，当我们的用心调制的饮品得到您的肯定时，是我们最开心的时刻！期待您下次光临小店哦！",
+          "pictures": [],
+          "isAnonymous": 0
+        }
+      ],
+      "recordCount": 2791,
+      "startIndex": 0,
+      "nextStartIndex": 20,
+      "isEnd": false,
+      "shopId": 1178277987,
+      "mtWmPoiId": "904959377479779",
+      "dpCommentNum": 0,
+      "PraiseRatio": "商家好评率97%",
+      "buzCode": 0,
+      "qualityScore": 4.8,
+      "packScore": 4.8,
+      "integratedScore": 4.8,
+      "shopScore": 4.8,
+      "deliveryScore": 5.0,
+      "commentLabels": [
+        { "content": "全部(2791)", "type": 1, "isSelected": 1, "ID": 0 },
+        { "content": "好评(2711)", "type": 1, "isSelected": 0, "ID": 1 },
+        { "content": "差评(46)", "type": 1, "isSelected": 0, "ID": 3 },
+        { "content": "有图评价(56)", "type": 1, "isSelected": 0, "ID": 5 },
+        { "content": "服务好(10)", "type": 2, "isSelected": 0, "ID": 39 },
+        { "content": "满意(9)", "type": 2, "isSelected": 0, "ID": 34 },
+        { "content": "味道赞(4)", "type": 2, "isSelected": 0, "ID": 75 },
+        { "content": "家人喜欢(3)", "type": 2, "isSelected": 0, "ID": 83 }
+      ]
+    },
+    "code": 0,
+    "msg": "成功"
+  },
+  {
+    "data": {
+      "list": [
+        {
+          "userName": "匿名用户",
+          "userPicUrl": "",
+          "userID": 0,
+          "commentTime": "2019-03-20",
+          "score": 4,
+          "deliveryTime": "19分钟送达",
+          "content": "炒饭味道有点淡。炒土豆丝不脆。味道还可以。我是这家小店的老顾客了，好评！",
+          "praiseDish": "",
+          "label": "快速准时,货品完好,穿戴工服,仪表整洁,风雨无阻,礼貌热情",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/56696ff871820a5ed461d2284567c2e0111024.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/56696ff871820a5ed461d2284567c2e0111024.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/56696ff871820a5ed461d2284567c2e0111024.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 1
+        },
+        {
+          "userName": "空白14392",
+          "userPicUrl": "https://img.meituan.net/avatar/dd1fdf5fcfba3f514b4e08f9b04888b7199865.jpg",
+          "userID": 525179658,
+          "commentTime": "2019-03-13",
+          "score": 5,
+          "deliveryTime": "16分钟送达",
+          "content": "#米饭（东北大米）##\uD83D\uDCAA蒸水蛋##蒜苗回锅肉#挺好的，真的饿了好吃，是我喜欢的蒜苗回锅肉\uD83D\uDE04\uD83D\uDE04\uD83D\uDE04还会继续光顾的鸡蛋有点不整，不影响口感。",
+          "praiseDish": "蒜苗回锅肉",
+          "label": "穿戴工服,快速准时,货品完好,礼貌热情,风雨无阻,仪表整洁",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/a209efbfd9f130af80aaf24ff405b7fc65721.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/a209efbfd9f130af80aaf24ff405b7fc65721.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/a209efbfd9f130af80aaf24ff405b7fc65721.jpg@330w_330h_1e_1c"
+            },
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/d1894c5047c72ebf60e7c8b1fd194aa451777.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/d1894c5047c72ebf60e7c8b1fd194aa451777.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/d1894c5047c72ebf60e7c8b1fd194aa451777.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "千笠君",
+          "userPicUrl": "https://img.meituan.net/avatar/80517496a3bedad93e273b415c99866812585.jpg",
+          "userID": 646407511,
+          "commentTime": "2019-03-16",
+          "score": 5,
+          "deliveryTime": "42分钟送达",
+          "content": "青笋，包菜炒的不错 糖醋里脊的做菜手法可以改进一下 这样直接炸甜味出不来 而且炸的有点狠 肉也挺老 ",
+          "praiseDish": "",
+          "label": "货品完好,仪表整洁,快速准时,礼貌热情,穿戴工服,风雨无阻",
+          "shopReply": "商家回复(7天后):好的 您的建议我们收到了。一定改正不足",
+          "pictures": [],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "你是我的小快乐",
+          "userPicUrl": "https://img.meituan.net/avatar/6468a647d7eb9b747086c7593b26c37a15569.jpg",
+          "userID": 400608801,
+          "commentTime": "2019-03-07",
+          "score": 5,
+          "deliveryTime": "29分钟送达",
+          "content": "这个鸡子闷粉皮点几次了，好好吃，山药红枣粥也不错，谢谢店家送的孜然土豆片，夜好好吃呢！三个人都说味道不错",
+          "praiseDish": "鸡子焖粉皮,山药红枣麦仁粥",
+          "label": "",
+          "pictures": [],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "OXq290725100",
+          "userPicUrl": "",
+          "userID": 626630925,
+          "commentTime": "2019-03-02",
+          "score": 5,
+          "deliveryTime": "32分钟送达",
+          "content": "#鸡子焖粉皮#推荐哦，真的蛮好吃的，觉得分量少的可以不点，毕竟这个菜只要十几块钱你想要多少分量呢。看到这个菜品因为觉得分量少给了很多差评我也是无力吐槽。#山药红枣麦仁粥#和自己家里煮的粥一样的味道，分量也足。#卤肉鸡蛋灌饼#这个饼我是蘸着鸡子的汤汁吃的，味道也是很赞的。",
+          "praiseDish": "鸡子焖粉皮,山药红枣麦仁粥,卤肉鸡蛋灌饼",
+          "label": "风雨无阻,快速准时,穿戴工服,货品完好,仪表整洁,礼貌热情",
+          "shopReply": "商家回复(1天后):感谢您的肯定和支持，小店的工作人员看了甚是欣慰。再次感谢您的支持和理解。祝您生活愉快，以后有什么不足的地方望您多多提意见",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/7aa26ac6fc2f21de80a4e19a9660f90314508.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/7aa26ac6fc2f21de80a4e19a9660f90314508.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/7aa26ac6fc2f21de80a4e19a9660f90314508.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "DTX924679502",
+          "userPicUrl": "",
+          "userID": 2496940418,
+          "commentTime": "2019-03-21",
+          "score": 3,
+          "deliveryTime": "36分钟送达",
+          "content": "一般般全国第三，还行吧！就是分量少一点天分的呀！，的店的人的话我发给你打电话",
+          "praiseDish": "豆棒回锅肉,麻辣豆腐,米饭（东北大米）",
+          "label": "礼貌热情,快速准时",
+          "pictures": [],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "瑶瑶52hop",
+          "userPicUrl": "",
+          "userID": 274083688,
+          "commentTime": "2019-03-18",
+          "score": 5,
+          "deliveryTime": "15分钟送达",
+          "content": "味道很好，分量很足#川香水煮肉片##鸡子焖粉皮##米饭（东北大米）##大白馒头一个#粉皮超级好吃，很入味下饭\n米饭，是中国人日常饮食中的主角之一，中国南方主食。米饭可与五味调配，几乎可以供给全身所需营养。大米性平、味甘； 有补中益气、健脾养胃、益精强志、和五脏、通血脉、聪耳明目、止烦、止渴、止泻的功效。留有胚与糊粉层的大米饭含有人体90%的必需营养元素",
+          "praiseDish": "川香水煮肉片,鸡子焖粉皮",
+          "label": "",
+          "shopReply": "商家回复(5天后):谢谢您的夸奖。祝您生活愉快工作顺利",
+          "pictures": [],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "eXE407949348",
+          "userPicUrl": "",
+          "userID": 1001684538,
+          "commentTime": "2019-03-07",
+          "score": 3,
+          "deliveryTime": "27分钟送达",
+          "content": "饭还是一如既往的好吃，菜还是一如既往的少，上班忙了一上午，这个点吃饭，有点没饱，嗯，是时候该减肥了。",
+          "praiseDish": "米饭（东北大米）",
+          "label": "",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/efc1edcae7c783880f9b10e86f4d34f645220.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/efc1edcae7c783880f9b10e86f4d34f645220.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/efc1edcae7c783880f9b10e86f4d34f645220.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "Jue403967889",
+          "userPicUrl": "",
+          "userID": 2433916156,
+          "commentTime": "2019-03-14",
+          "score": 3,
+          "deliveryTime": "27分钟送达",
+          "content": "有一点点少，还好，青椒炒肉丝只有青椒没有肉丝……不想多说了就那样吧其他的",
+          "praiseDish": "",
+          "label": "风雨无阻,货品完好,礼貌热情,穿戴工服,仪表整洁,快速准时,包装精美,味道赞,商家服务好",
+          "pictures": [],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "多多多放点辣椒",
+          "userPicUrl": "https://img.meituan.net/avatar/3d50d60f3b10818448b0409d83647a6b12850.jpg",
+          "userID": 1433452787,
+          "commentTime": "2019-03-23",
+          "score": 5,
+          "deliveryTime": "43分钟送达",
+          "content": "东西没有以前多了，粉皮焖鸡肉有点柴，但是还是很好吃的!",
+          "praiseDish": "孜然肉片,酸辣土豆丝",
+          "label": "",
+          "pictures": [],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "匿名用户",
+          "userPicUrl": "",
+          "userID": 0,
+          "commentTime": "2019-03-20",
+          "score": 2,
+          "deliveryTime": "16分钟送达",
+          "content": "#辣子鸡锅巴# 以前老点这个菜、今天太失望了。锅巴是不脆 皮的。鸡子咬不动  #孜然土豆片#也没有以前好吃了。",
+          "praiseDish": "",
+          "label": "",
+          "pictures": [],
+          "isAnonymous": 1
+        },
+        {
+          "userName": "匿名用户",
+          "userPicUrl": "",
+          "userID": 0,
+          "commentTime": "2019-03-20",
+          "score": 2,
+          "deliveryTime": "23分钟送达",
+          "content": "西红柿都坏了 难吃的很",
+          "praiseDish": "辣子鸡锅巴,酸辣土豆丝,米饭（东北大米）",
+          "label": "其他",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/7cb8b7b83291520f3917a4318ab331f7217887.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/7cb8b7b83291520f3917a4318ab331f7217887.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/7cb8b7b83291520f3917a4318ab331f7217887.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 1
+        },
+        {
+          "userName": "匿名用户",
+          "userPicUrl": "",
+          "userID": 0,
+          "commentTime": "2019-03-03",
+          "score": 1,
+          "deliveryTime": "25分钟送达",
+          "content": "你们家饭是越来越难吃   饭量也是少的可怜   今天的汤还是黑色的   #麻辣土豆粉#以前是肉  现在也不知道是啥假肉 难吃死了 ",
+          "praiseDish": "",
+          "label": "仪表整洁,礼貌热情,穿戴工服,快速准时,货品完好,风雨无阻",
+          "shopReply": "商家回复(3天后):以前是腱子肉，现在换成另外一种熟肉了。这个更容易入味要是不喜欢下次可以备注给您换之前那种肉，汤底黑是因为师傅挖多了熬的辣椒，正常是放熬的红油。已经跟师傅说了。不好意思没能让您满意",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/5a6647438d842a65ca7143f303f86838119623.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/5a6647438d842a65ca7143f303f86838119623.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/5a6647438d842a65ca7143f303f86838119623.jpg@330w_330h_1e_1c"
+            },
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/2c45796526b69b9c88ff1e0cd0ba439f97733.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/2c45796526b69b9c88ff1e0cd0ba439f97733.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/2c45796526b69b9c88ff1e0cd0ba439f97733.jpg@330w_330h_1e_1c"
+            },
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/ce9262a0eeaacc3999f2756bca0a428a89540.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/ce9262a0eeaacc3999f2756bca0a428a89540.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/ce9262a0eeaacc3999f2756bca0a428a89540.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 1
+        },
+        {
+          "userName": "匿名用户",
+          "userPicUrl": "",
+          "userID": 0,
+          "commentTime": "2019-03-16",
+          "score": 1,
+          "deliveryTime": "0分钟送达",
+          "content": "因为之前几次很满意所以选择小店，但是这次的量比上次少了很多，而且蒸蛋很稀释，提前太早做了，总之这次很不满意！！！",
+          "praiseDish": "",
+          "label": "",
+          "shopReply": "商家回复(7天后):不好意思没能让你满意，鸡蛋比例没有调好导致蒸的时候太稀了，现在已作调整了。",
+          "pictures": [],
+          "isAnonymous": 1
+        },
+        {
+          "userName": "匿名用户",
+          "userPicUrl": "",
+          "userID": 0,
+          "commentTime": "2019-02-28",
+          "score": 1,
+          "deliveryTime": "20分钟送达",
+          "content": "菜的口味非常一般，蒜苗炒肉没有五块肉，湘味炒香干，香干也就十一二根，都是蒜苗和韭菜还炒的根水煮的一样，非常不美满！还饭还有点酸酸的！",
+          "praiseDish": "",
+          "label": "快速准时",
+          "shopReply": "商家回复(3天后):非常抱歉，没能让您满意。您说的问题我们一定改正，有些菜一下来几分就一起炒了，出锅可能是没有分均匀。打包久了蔬菜的水分就是蒸发出来，有机会来店里试吃一下，刚出锅的口感会更好",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/e37f4598907225b5e3a04e38c8f7121741997.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/e37f4598907225b5e3a04e38c8f7121741997.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/e37f4598907225b5e3a04e38c8f7121741997.jpg@330w_330h_1e_1c"
+            },
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/0081ef62efa5a6c4472922d4aec793db40703.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/0081ef62efa5a6c4472922d4aec793db40703.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/0081ef62efa5a6c4472922d4aec793db40703.jpg@330w_330h_1e_1c"
+            },
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/24596b6d6df7f04a5cb51834c7affcb049853.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/24596b6d6df7f04a5cb51834c7affcb049853.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/24596b6d6df7f04a5cb51834c7affcb049853.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 1
+        },
+        {
+          "userName": "匿名用户",
+          "userPicUrl": "",
+          "userID": 0,
+          "commentTime": "2019-03-01",
+          "score": 2,
+          "deliveryTime": "55分钟送达",
+          "content": "注明了不要辣，笋子炒腱子肉还是放那多辣椒！点的是蒜苗炒回锅肉结果却是芹菜炒回锅肉！而且油居多！！",
+          "praiseDish": "",
+          "label": "",
+          "shopReply": "商家回复(2天后):对不起。是我们打包的失误了。非常抱歉，下次点菜您备注一下，送您一个您喜欢的菜，弥补一下吧。谢谢",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/955074d97b976d4c38681fbb167a3207183901.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/955074d97b976d4c38681fbb167a3207183901.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/955074d97b976d4c38681fbb167a3207183901.jpg@330w_330h_1e_1c"
+            },
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/c9cf79ece7a30781084869d0f79663b2202237.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/c9cf79ece7a30781084869d0f79663b2202237.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/c9cf79ece7a30781084869d0f79663b2202237.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 1
+        },
+        {
+          "userName": "刺2980",
+          "userPicUrl": "https://img.meituan.net/avatar/3842a3f705b89f91f6584c40cb83fca116105.jpg",
+          "userID": 693771764,
+          "commentTime": "2019-02-25",
+          "score": 3,
+          "deliveryTime": "30分钟送达",
+          "content": "干煸香菇这道菜 炒菜吃出了烧烤的感觉  全都靠孜然调味  玉米排骨汤感觉味道怪怪的 不好喝 就把玉米吃了  希望能改进",
+          "praiseDish": "",
+          "label": "",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/c2573e7b0eecd308c828c0c77f2a21a930067.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/c2573e7b0eecd308c828c0c77f2a21a930067.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/c2573e7b0eecd308c828c0c77f2a21a930067.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "匿名用户",
+          "userPicUrl": "",
+          "userID": 0,
+          "commentTime": "2019-02-28",
+          "score": 2,
+          "deliveryTime": "21分钟送达",
+          "content": "前几次吃的还挺不错的，但是今天回锅肉只有10块儿，洋葱有4块儿，剩的全是蒜苗和辣椒",
+          "praiseDish": "",
+          "label": "仪表整洁,礼貌热情,风雨无阻,快速准时,货品完好,穿戴工服",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/4f025f47c66b0d747e586acc43675f2165606.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/4f025f47c66b0d747e586acc43675f2165606.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/4f025f47c66b0d747e586acc43675f2165606.jpg@330w_330h_1e_1c"
+            },
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/06066e8de5c463c48edf8fcf43db592272440.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/06066e8de5c463c48edf8fcf43db592272440.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/06066e8de5c463c48edf8fcf43db592272440.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 1
+        },
+        {
+          "userName": "匿名用户",
+          "userPicUrl": "",
+          "userID": 0,
+          "commentTime": "2019-02-23",
+          "score": 1,
+          "deliveryTime": "39分钟送达",
+          "content": "真是服了，商家吝啬的米饭还要单点，，而且到结算我也没发现米饭居然还要单点，光有菜，没有饭，真想骂人！另外有多少水军说他家饭菜好的给我站出来。",
+          "praiseDish": "",
+          "label": "",
+          "shopReply": "商家回复(18天后):不好意思没能让您满意，米饭都是需要单点的，因为我们不是盒饭型的快餐。是现炒的，点单和下单都有提醒的。可能您没注意到，没有米饭您完全给我给我商量能不能再帮您送一份，我们也会给外卖大哥说一下的，话还没有说完您就挂电话了。",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/734187172a6bbaad4d7634d5d15e4cc546346.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/734187172a6bbaad4d7634d5d15e4cc546346.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/734187172a6bbaad4d7634d5d15e4cc546346.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 1
+        },
+        {
+          "userName": "匿名用户",
+          "userPicUrl": "",
+          "userID": 0,
+          "commentTime": "2019-02-20",
+          "score": 1,
+          "deliveryTime": "49分钟送达",
+          "content": "难吃，，有史以来点外卖最难吃没有之一#黄豆芽炖小酥肉#肉跟泡沫一般还放臭了，，",
+          "praiseDish": "",
+          "label": "联系沟通困难",
+          "shopReply": "商家回复(21天后):不好意思没能让您满意",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/d9a894098bafff8e53c5d56b9318e1dc24860.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/d9a894098bafff8e53c5d56b9318e1dc24860.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/d9a894098bafff8e53c5d56b9318e1dc24860.jpg@330w_330h_1e_1c"
+            },
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/5c4a5a329c1324fa3f8bf249b5043eb827793.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/5c4a5a329c1324fa3f8bf249b5043eb827793.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/5c4a5a329c1324fa3f8bf249b5043eb827793.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 1
+        }
+      ],
+      "recordCount": 19489,
+      "startIndex": 0,
+      "nextStartIndex": 20,
+      "isEnd": false,
+      "shopId": 1178318140,
+      "mtWmPoiId": "1113243816539452",
+      "dpCommentNum": 0,
+      "PraiseRatio": "商家好评率93%",
+      "buzCode": 0,
+      "qualityScore": 4.3,
+      "packScore": 4.4,
+      "integratedScore": 4.3,
+      "shopScore": 4.3,
+      "deliveryScore": 4.9,
+      "commentLabels": [
+        { "content": "全部(19489)", "type": 1, "isSelected": 1, "ID": 0 },
+        { "content": "好评(18241)", "type": 1, "isSelected": 0, "ID": 1 },
+        { "content": "差评(702)", "type": 1, "isSelected": 0, "ID": 3 },
+        { "content": "有图评价(869)", "type": 1, "isSelected": 0, "ID": 5 },
+        { "content": "味道赞(850)", "type": 2, "isSelected": 0, "ID": 75 },
+        { "content": "分量足(168)", "type": 2, "isSelected": 0, "ID": 50 },
+        { "content": "满意(113)", "type": 2, "isSelected": 0, "ID": 34 },
+        { "content": "价格实惠(99)", "type": 2, "isSelected": 0, "ID": 61 },
+        { "content": "菜品不错(82)", "type": 2, "isSelected": 0, "ID": 1 },
+        { "content": "服务好(52)", "type": 2, "isSelected": 0, "ID": 39 }
+      ]
+    },
+    "code": 0,
+    "msg": "成功"
+  },
+  {
+    "data": {
+      "list": [
+        {
+          "userName": "UeQ542562504",
+          "userPicUrl": "",
+          "userID": 516935951,
+          "commentTime": "2019-03-11",
+          "score": 5,
+          "deliveryTime": "26分钟送达",
+          "content": "收到啦，味道还可以，外卖小哥好贴心，服务真好，棒棒哒",
+          "praiseDish": "红薯丸,娃娃菜,黄金小馒头,烤串不辣+锡纸,烤茄子,台湾香肠,土豆,四季豆,羊肉串,年糕",
+          "label": "穿戴工服,风雨无阻,仪表整洁,礼貌热情,货品完好,快速准时",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/66ef9a85cf56ec99761e2e4cdb459220836810.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/66ef9a85cf56ec99761e2e4cdb459220836810.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/66ef9a85cf56ec99761e2e4cdb459220836810.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "小短腿的小胖子i",
+          "userPicUrl": "https://img.meituan.net/avatar/dfc5b4a344386d68fa92a9b69dae08c334225.jpg",
+          "userID": 348921117,
+          "commentTime": "2019-03-22",
+          "score": 5,
+          "deliveryTime": "25分钟送达",
+          "content": "骑手送餐很快找的很准。翅中不错毛蛋不好吃。备注了少放点孜然结果孜然还是不少，尤其是鸡爪上，一坨一坨的。河粉味道一般般。不考虑回购",
+          "praiseDish": "秘制翅中",
+          "label": "风雨无阻,快速准时,仪表整洁,货品完好,礼貌热情,穿戴工服",
+          "pictures": [],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "蔷薇纪锦。",
+          "userPicUrl": "https://img.meituan.net/avatar/b1115e7b350e4a0e42538bfbb6348c8618998.jpg",
+          "userID": 288531515,
+          "commentTime": "2019-03-01",
+          "score": 5,
+          "deliveryTime": "27分钟送达",
+          "content": "#烤羊内腰（整个纯鲜）##秘制翅中##澳洲大串鸡腿肉##鹌鹑蛋##羊肉串##王中王火腿##鱼豆腐##黄金小馒头##猪肉串#",
+          "praiseDish": "",
+          "label": "",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/0b7e15044965cfd61d6ff18b98ba5b1d55484.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/0b7e15044965cfd61d6ff18b98ba5b1d55484.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/0b7e15044965cfd61d6ff18b98ba5b1d55484.jpg@330w_330h_1e_1c"
+            },
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/c657cba71cb0bedc041b3a29bdd1683655052.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/c657cba71cb0bedc041b3a29bdd1683655052.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/c657cba71cb0bedc041b3a29bdd1683655052.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "ayz210606570",
+          "userPicUrl": "",
+          "userID": 93047773,
+          "commentTime": "2019-03-23",
+          "score": 4,
+          "deliveryTime": "48分钟送达",
+          "content": "48块钱就不到十串，#特色大串新疆红柳烤羊肉#跟普通羊肉串一样大还这么贵",
+          "praiseDish": "",
+          "label": "配送慢",
+          "pictures": [],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "您的外卖已到",
+          "userPicUrl": "",
+          "userID": 882227546,
+          "commentTime": "2019-03-23",
+          "score": 5,
+          "deliveryTime": "32分钟送达",
+          "content": "其实还没吃，外卖小哥服务挺好。",
+          "praiseDish": "特色炒饭,牛肉串,羊肉串,秘制大串肉皮,猪肉串",
+          "label": "穿戴工服,货品完好,快速准时,仪表整洁,礼貌热情,风雨无阻",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/117305f93f86e318ed9381ed3cf5ba7e45151.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/117305f93f86e318ed9381ed3cf5ba7e45151.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/117305f93f86e318ed9381ed3cf5ba7e45151.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "军强我爱你",
+          "userPicUrl": "https://img.meituan.net/avatar/423d32e4549d65d4ff46aab025e475f7102252.jpg",
+          "userID": 850038651,
+          "commentTime": "2019-02-24",
+          "score": 5,
+          "deliveryTime": "44分钟送达",
+          "content": "这是一条好评段子，花钱的评价，麻烦你们认真点！先说商品质量：产品总体不错，包装严实。再说商家服务：点赞啦。最后点评快递：发货很快。其他就是感谢店家打折送券活动，毕竟便宜好货更实在。希望店家多多优惠，及时通知老客户，促成回购。祝生意兴隆。",
+          "praiseDish": "雪花清爽,羊肉串,牛肚串,烤整个青椒,猪肉串,四季豆,烤韭菜,土豆,鸭肠,烤串重辣+锡纸",
+          "label": "穿戴工服,风雨无阻,仪表整洁,货品完好,礼貌热情,快速准时",
+          "pictures": [],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "蒙牛和伊利",
+          "userPicUrl": "https://img.meituan.net/avatar/__46699974__8053460.jpg",
+          "userID": 68548382,
+          "commentTime": "2019-03-22",
+          "score": 5,
+          "deliveryTime": "24分钟送达",
+          "content": "东西很好吃，锡纸娃娃菜味道！    （这一条给骑手）原本很生气坚持要给骑手差评的，但是考虑到半夜送餐不容易便作罢。希望骑手以后能仔细留意客户的备注！ “到了请不要敲门，打电话给我谢谢！”  半夜两点多家人因为敲门声全醒了，气愤的同时也为之前每一个帮我送餐打掩护的骑手表示感谢",
+          "praiseDish": "锡纸娃娃菜",
+          "label": "",
+          "pictures": [],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "ivH812592145",
+          "userPicUrl": "",
+          "userID": 921156931,
+          "commentTime": "2019-03-11",
+          "score": 5,
+          "deliveryTime": "23分钟送达",
+          "content": "#风味烤玉米##鱼豆腐##年糕#很棒很好吃",
+          "praiseDish": "风味烤玉米,风味烤鸡爪,鱼豆腐,年糕,烤串不辣+锡纸",
+          "label": "风雨无阻,穿戴工服,货品完好,仪表整洁,快速准时,礼貌热情",
+          "pictures": [],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "xKM193044668",
+          "userPicUrl": "https://img.meituan.net/avatar/222835c3ba3ceaa1a9c3a9b5dd66aec434736.jpg",
+          "userID": 324606303,
+          "commentTime": "2019-01-29",
+          "score": 3,
+          "deliveryTime": "40分钟送达",
+          "content": "我要是加肉的炒面，里面确一个肉丝都没有#特色炒面(细)#",
+          "praiseDish": "牛肉串,五花肉,羊肉串,猪肉串",
+          "label": "",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/986d5761fbc381f123efa8a8179b4d0053347.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/986d5761fbc381f123efa8a8179b4d0053347.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/986d5761fbc381f123efa8a8179b4d0053347.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "pUq202148555",
+          "userPicUrl": "",
+          "userID": 1651975513,
+          "commentTime": "2019-03-23",
+          "score": 4,
+          "deliveryTime": "18分钟送达",
+          "content": "少，海鱼肚没熟。\n",
+          "praiseDish": "",
+          "label": "穿戴工服,快速准时",
+          "pictures": [],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "匿名用户",
+          "userPicUrl": "",
+          "userID": 0,
+          "commentTime": "2019-03-23",
+          "score": 1,
+          "deliveryTime": "31分钟送达",
+          "content": "我是看排名点的，我以为会很好吃，没想到，特别难吃。。。还很咸，而且点了瓶荔枝味的美年达没了直接换了口味，也没说打个电话问问。。。很好奇排名是怎么上的。。。总之差评",
+          "praiseDish": "",
+          "label": "仪表整洁,快速准时,货品完好,风雨无阻,礼貌热情,穿戴工服",
+          "shopReply": "商家回复(1天后):你好口味众口难调！没有十全十美！换任何东西不忙都会打电话的！星期六当时实在太忙让骑手帮忙转达，说如果顾客不要打电话我把钱退给他，可能骑手又忙忘了！抱歉！",
+          "pictures": [],
+          "isAnonymous": 1
+        },
+        {
+          "userName": "涛47800",
+          "userPicUrl": "https://img.meituan.net/avatar/15334ca96689c50912c123058761a1504929.jpg",
+          "userID": 1122783177,
+          "commentTime": "2019-03-01",
+          "score": 1,
+          "deliveryTime": "42分钟送达",
+          "content": "鱿鱼打开就是一股特别特别的腥臭。除了豆皮可以，其他没有一个新鲜的，强烈要求处罚这家店，不信的可以自己点一单试试。如果我说的不是实话出门出车祸",
+          "praiseDish": "豆皮卷韭菜,四季豆,7喜,烤千张",
+          "label": "难吃,食材不新鲜",
+          "pictures": [],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "匿名用户",
+          "userPicUrl": "",
+          "userID": 0,
+          "commentTime": "2019-02-27",
+          "score": 1,
+          "deliveryTime": "23分钟送达",
+          "content": "鸡翅没熟… 炒面没啥味道",
+          "praiseDish": "",
+          "label": "快速准时",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/b358144c41f1d08d659fe6ad94666960370904.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/b358144c41f1d08d659fe6ad94666960370904.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/b358144c41f1d08d659fe6ad94666960370904.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 1
+        },
+        {
+          "userName": "匿名用户",
+          "userPicUrl": "",
+          "userID": 0,
+          "commentTime": "2019-03-04",
+          "score": 1,
+          "deliveryTime": "32分钟送达",
+          "content": "眼睛瞎吧 我要的重辣 结果一个辣椒都没有   叫的饮料不放吸管  包装垃圾  再也不点这家  难吃的要命",
+          "praiseDish": "",
+          "label": "",
+          "shopReply": "商家回复(20天后):没文化真可怕！慢走！",
+          "pictures": [],
+          "isAnonymous": 1
+        },
+        {
+          "userName": "匿名用户",
+          "userPicUrl": "",
+          "userID": 0,
+          "commentTime": "2019-02-24",
+          "score": 2,
+          "deliveryTime": "46分钟送达",
+          "content": "老板 羊肉串是猪肉串吧 是猪肉串也就算了 肉还是酸的 炒米也没以前的好吃了\n",
+          "praiseDish": "",
+          "label": "配送慢",
+          "pictures": [],
+          "isAnonymous": 1
+        },
+        {
+          "userName": "匿名用户",
+          "userPicUrl": "",
+          "userID": 0,
+          "commentTime": "2019-03-14",
+          "score": 2,
+          "deliveryTime": "24分钟送达",
+          "content": "上次忘了鱿鱼，这次忘了土豆！真好",
+          "praiseDish": "",
+          "label": "",
+          "pictures": [],
+          "isAnonymous": 1
+        },
+        {
+          "userName": "匿名用户",
+          "userPicUrl": "",
+          "userID": 0,
+          "commentTime": "2019-03-22",
+          "score": 1,
+          "deliveryTime": "41分钟送达",
+          "content": "垃圾四十多还不够我一个人吃的！和图片相差太大！吃不起",
+          "praiseDish": "",
+          "label": "快速准时",
+          "pictures": [],
+          "isAnonymous": 1
+        },
+        {
+          "userName": "匿名用户",
+          "userPicUrl": "",
+          "userID": 0,
+          "commentTime": "2019-03-16",
+          "score": 1,
+          "deliveryTime": "37分钟送达",
+          "content": "扇贝有沙 zi牙#粉丝蒜蓉烤扇贝#",
+          "praiseDish": "",
+          "label": "",
+          "pictures": [],
+          "isAnonymous": 1
+        },
+        {
+          "userName": "不撕了你脱",
+          "userPicUrl": "https://img.meituan.net/avatar/6a9b9bc5d0d9e71bcd353a461091cccf131429.jpg",
+          "userID": 123753140,
+          "commentTime": "2019-03-15",
+          "score": 3,
+          "deliveryTime": "25分钟送达",
+          "content": "明天能多送俩串嘛猪肉串",
+          "praiseDish": "",
+          "label": "",
+          "pictures": [],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "眼睛的泪不是错觉",
+          "userPicUrl": "https://img.meituan.net/avatar/6caed2782de673ff8b070d36154b767829095.jpg",
+          "userID": 793965254,
+          "commentTime": "2019-03-10",
+          "score": 5,
+          "deliveryTime": "46分钟送达",
+          "content": "味道还不错，外卖小哥说话特别温柔，那么晚了还挺不容易的",
+          "praiseDish": "",
+          "label": "风雨无阻,货品完好,礼貌热情,穿戴工服,仪表整洁,快速准时",
+          "pictures": [],
+          "isAnonymous": 0
+        }
+      ],
+      "recordCount": 2707,
+      "startIndex": 0,
+      "nextStartIndex": 20,
+      "isEnd": false,
+      "shopId": 1178306858,
+      "mtWmPoiId": "978179979970858",
+      "dpCommentNum": 0,
+      "PraiseRatio": "商家好评率90%",
+      "buzCode": 0,
+      "qualityScore": 4.1,
+      "packScore": 4.2,
+      "integratedScore": 4.2,
+      "shopScore": 4.2,
+      "deliveryScore": 4.9,
+      "commentLabels": [
+        { "content": "全部(2707)", "type": 1, "isSelected": 1, "ID": 0 },
+        { "content": "好评(2446)", "type": 1, "isSelected": 0, "ID": 1 },
+        { "content": "差评(143)", "type": 1, "isSelected": 0, "ID": 3 },
+        { "content": "有图评价(95)", "type": 1, "isSelected": 0, "ID": 5 },
+        { "content": "味道赞(88)", "type": 2, "isSelected": 0, "ID": 75 },
+        { "content": "包装好(10)", "type": 2, "isSelected": 0, "ID": 29 },
+        { "content": "满意(9)", "type": 2, "isSelected": 0, "ID": 34 },
+        { "content": "分量足(7)", "type": 2, "isSelected": 0, "ID": 50 },
+        { "content": "贵(7)", "type": 2, "isSelected": 0, "ID": 62 },
+        { "content": "菜品不错(5)", "type": 2, "isSelected": 0, "ID": 1 }
+      ]
+    },
+    "code": 0,
+    "msg": "成功"
+  },
+  {
+    "data": {
+      "list": [
+        {
+          "userName": "匿名用户",
+          "userPicUrl": "",
+          "userID": 0,
+          "commentTime": "2019-03-23",
+          "score": 1,
+          "deliveryTime": "25分钟送达",
+          "content": "超难吃很无语了\uD83D\uDE13唉",
+          "praiseDish": "",
+          "label": "",
+          "pictures": [],
+          "isAnonymous": 1
+        }
+      ],
+      "recordCount": 1,
+      "startIndex": 0,
+      "nextStartIndex": 0,
+      "isEnd": true,
+      "shopId": 1178321801,
+      "mtWmPoiId": "848656651240329",
+      "dpCommentNum": 0,
+      "PraiseRatio": "商家好评率0%",
+      "buzCode": 0,
+      "qualityScore": 0.0,
+      "packScore": 0.0,
+      "integratedScore": 0.0,
+      "shopScore": 0.0,
+      "deliveryScore": 0.0,
+      "commentLabels": [
+        { "content": "全部(1)", "type": 1, "isSelected": 1, "ID": 0 },
+        { "content": "差评(1)", "type": 1, "isSelected": 0, "ID": 3 }
+      ]
+    },
+    "code": 0,
+    "msg": "成功"
+  },
+  {
+    "data": {
+      "list": [
+        {
+          "userName": "匿名用户",
+          "userPicUrl": "",
+          "userID": 0,
+          "commentTime": "2019-03-20",
+          "score": 5,
+          "deliveryTime": "23分钟送达",
+          "content": "凉皮太少了吧，本来就很小一个盒子，结果就一个碗底，真的就是一小口\uD83D\uDE02\uD83D\uDE02\uD83D\uDE02",
+          "praiseDish": "千页豆腐,花菜肉片,酸辣土豆丝,米饭",
+          "label": "",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/437dfd253aeca75876cde909c1d1f4ed39580.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/437dfd253aeca75876cde909c1d1f4ed39580.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/437dfd253aeca75876cde909c1d1f4ed39580.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 1
+        },
+        {
+          "userName": "RzR382391157",
+          "userPicUrl": "",
+          "userID": 2260040339,
+          "commentTime": "2019-03-10",
+          "score": 5,
+          "deliveryTime": "35分钟送达",
+          "content": "吃大米家吃了好多次了。每次必点#辣子鸡##木耳肉片#这次#辣子鸡#里面的肉超多哦给个赞其他菜没以前分量多了。",
+          "praiseDish": "",
+          "label": "",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/7de126b2930bac3685a077d34565aa47272376.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/7de126b2930bac3685a077d34565aa47272376.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/7de126b2930bac3685a077d34565aa47272376.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "宝贝自己洋洋",
+          "userPicUrl": "https://img.meituan.net/avatar/cf908aa9e33c66a1a1520f0977f1177019315.jpg",
+          "userID": 640426866,
+          "commentTime": "2019-03-03",
+          "score": 5,
+          "deliveryTime": "36分钟送达",
+          "content": "不要加辣还加辣，还是剩菜，订两盒米饭，却送来一盒，坑人的商家！！！！！",
+          "praiseDish": "",
+          "label": "货品不完好,其他",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/445e9cd03603fc4906217d35444dba9880947.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/445e9cd03603fc4906217d35444dba9880947.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/445e9cd03603fc4906217d35444dba9880947.jpg@330w_330h_1e_1c"
+            },
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/3fd233a4349e04219d8b48f2999ca91170469.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/3fd233a4349e04219d8b48f2999ca91170469.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/3fd233a4349e04219d8b48f2999ca91170469.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "PJN461629697",
+          "userPicUrl": "",
+          "userID": 97384640,
+          "commentTime": "2019-02-27",
+          "score": 5,
+          "deliveryTime": "32分钟送达",
+          "content": "辣子鸡套餐里边除了辣子，鸡肉只有五块儿。不愧是辣子鸡套餐呀。",
+          "praiseDish": "南瓜粥,蒸水蛋",
+          "label": "快速准时,仪表整洁,穿戴工服,礼貌热情,货品完好,风雨无阻",
+          "pictures": [],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "夜梦灬潇湘",
+          "userPicUrl": "https://img.meituan.net/avatar/97dc7aef75bfaf3cac6f2d5c78ff409722199.jpg",
+          "userID": 262952724,
+          "commentTime": "2019-02-22",
+          "score": 5,
+          "deliveryTime": "18分钟送达",
+          "content": "#红烧肉##红烧鱼块##西蓝花##西红柿炒鸡蛋#好吃不贵，配送还快，小哥一路跑上6楼，辛苦辛苦",
+          "praiseDish": "红烧肉,红烧鱼块,西兰花,西红柿炒鸡蛋,米饭",
+          "label": "礼貌热情,货品完好,风雨无阻,穿戴工服,仪表整洁,快速准时",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/d5b6b99e37eee4866af659526baf956844797.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/d5b6b99e37eee4866af659526baf956844797.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/d5b6b99e37eee4866af659526baf956844797.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "大胖※吉麦",
+          "userPicUrl": "https://img.meituan.net/avatar/e388552b4a3b25dd3a4af41b0505f3c231875.jpg",
+          "userID": 293990797,
+          "commentTime": "2019-03-21",
+          "score": 3,
+          "deliveryTime": "33分钟送达",
+          "content": "凉皮太少了点吧，碗小而且只有一半",
+          "praiseDish": "",
+          "label": "",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/0c594924915b41fc73ad87e30c02e26e109825.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/0c594924915b41fc73ad87e30c02e26e109825.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/0c594924915b41fc73ad87e30c02e26e109825.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "阿美呀fmy",
+          "userPicUrl": "https://img.meituan.net/avatar/ebcec874154708c2c6314b19261d0fbf21239.jpg",
+          "userID": 316127960,
+          "commentTime": "2019-03-20",
+          "score": 3,
+          "deliveryTime": "58分钟送达",
+          "content": "米饭好吃菜都凉了",
+          "praiseDish": "糖醋里脊,千页豆腐,南瓜粥,米饭",
+          "label": "",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/094c63abad48ab6220b863b85f0385ac38500.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/094c63abad48ab6220b863b85f0385ac38500.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/094c63abad48ab6220b863b85f0385ac38500.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "匿名用户",
+          "userPicUrl": "",
+          "userID": 0,
+          "commentTime": "2019-03-03",
+          "score": 3,
+          "deliveryTime": "23分钟送达",
+          "content": "老鸭汤太难喝了，里面萝卜是坏的，导致整个汤都有一股怪味",
+          "praiseDish": "糖醋里脊套餐,蒸水蛋",
+          "label": "风雨无阻,快速准时,仪表整洁,货品完好,穿戴工服,礼貌热情",
+          "pictures": [],
+          "isAnonymous": 1
+        },
+        {
+          "userName": "GCR815978702",
+          "userPicUrl": "",
+          "userID": 1197083737,
+          "commentTime": "2019-03-04",
+          "score": 3,
+          "deliveryTime": "11分钟送达",
+          "content": "点的青椒鸡蛋结果送了豆腐，应该是店家太忙了吧，还是材料不够了，希望店家下次注意",
+          "praiseDish": "",
+          "label": "",
+          "pictures": [],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "yuM659688201",
+          "userPicUrl": "",
+          "userID": 836358666,
+          "commentTime": "2019-03-05",
+          "score": 3,
+          "deliveryTime": "18分钟送达",
+          "content": "菜品味道很好，每次来信阳出差必吃，但这次外卖猪肝里面有根特别长的头发，瞬间恶心的一口也吃不下了，希望店家注意卫生情况！！",
+          "praiseDish": "",
+          "label": "",
+          "shopReply": "商家回复(3天后):您好，这次没能做到您的满意我们深表歉意，后续定会杜绝此类事件发生，麻烦您下次点餐的时候给予我们备注给您补送一份，大米厨房期待您的再次光临，祝您生活愉快！",
+          "pictures": [],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "匿名用户",
+          "userPicUrl": "",
+          "userID": 0,
+          "commentTime": "2019-03-22",
+          "score": 2,
+          "deliveryTime": "40分钟送达",
+          "content": "这个带鱼是被老鼠吃了的吧  为什么我总是觉得这一块像是被吃过的  还有土豆丝 都发黑了还在卖  ",
+          "praiseDish": "",
+          "label": "",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/fa336219ddad0700505fcb4c402929c431244.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/fa336219ddad0700505fcb4c402929c431244.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/fa336219ddad0700505fcb4c402929c431244.jpg@330w_330h_1e_1c"
+            },
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/ee92330e24b7f9192e48a2b44678349643216.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/ee92330e24b7f9192e48a2b44678349643216.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/ee92330e24b7f9192e48a2b44678349643216.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 1
+        },
+        {
+          "userName": "匿名用户",
+          "userPicUrl": "",
+          "userID": 0,
+          "commentTime": "2019-03-18",
+          "score": 2,
+          "deliveryTime": "13分钟送达",
+          "content": "菜品还是但是要注意卫生啊，筷子都霉了没人发现吗",
+          "praiseDish": "土豆片,西红柿炒鸡蛋,果粒奶优,味动力,蒸水蛋,紫菜蛋汤",
+          "label": "货品完好,礼貌热情,仪表整洁,快速准时,穿戴工服,风雨无阻",
+          "shopReply": "商家回复(2天后):您好，真的是非常抱歉，筷子这边我们已经与供货商沟通好了，我们定制的筷子比较多，今后我们也会按量来定，避免在出现类似情况，这次真的是非常抱歉，同时也非常感谢您提的宝贵意见 ，祝您生活愉快，万事顺心",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/3df4d695f404654265a08e1bf3c6b87725655.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/3df4d695f404654265a08e1bf3c6b87725655.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/3df4d695f404654265a08e1bf3c6b87725655.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 1
+        },
+        {
+          "userName": "aFA996298204",
+          "userPicUrl": "",
+          "userID": 870447041,
+          "commentTime": "2019-03-16",
+          "score": 1,
+          "deliveryTime": "20分钟送达",
+          "content": "咳咳，怎么说，首先紫菜蛋花汤，你是鸡蛋液没打散吗？为啥汤这么浓稠呢？然后啊，你这辣子鸡，全是辣椒？骨头？鱼香肉丝，肉丝呢？红萝卜丝？好不容易看到块肉还掉地上了，本来挺爱吃西红柿炒鸡蛋的，没多少鸡蛋也不说了，你起码放点盐啊，看着挺好看，唉不说了，米饭吃着还行吧！！",
+          "praiseDish": "米饭",
+          "label": "",
+          "shopReply": "商家回复(3天后):您好，真的是不好意思呢，请接受我们的道歉，这次点餐没能让您满意真的是很抱歉，同时也非常感谢您的宝贵意见，接下来我们会注意，我们可以建议您到店用餐，如有不满意我们会及时给您换您合口的菜品， 真的是非常抱歉 没能达到你的满意，希望您下次有一个愉快的用餐氛围，祝您生活愉快",
+          "pictures": [],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "匿名用户",
+          "userPicUrl": "",
+          "userID": 0,
+          "commentTime": "2019-03-08",
+          "score": 2,
+          "deliveryTime": "23分钟送达",
+          "content": "不要拿昨天的饭菜忽悠我好么？饭菜有没有味道自己吃两口好不好，菜还可以了接受，饭的话有很明显的味道",
+          "praiseDish": "土豆片,蒸水蛋,烤肠,米酒汤圆",
+          "label": "穿戴工服,快速准时,货品完好,风雨无阻,仪表整洁,礼貌热情",
+          "shopReply": "商家回复(12天后):亲，您此时的心情我能理解，真的是非常·抱歉，对于这个问题真的需要向您解释一下，我们的米饭没有问题，您可以放心，是送错了一批货导致而成，我们已经与对方联系，货已经调走，更换了新货，对于这次我们真的是非常抱歉，希望您下次能有一个美好的用餐氛围，谢谢您的光临，祝您生活愉快",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/a1f87e20737fd3b7e72f45a48357e53332601.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/a1f87e20737fd3b7e72f45a48357e53332601.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/a1f87e20737fd3b7e72f45a48357e53332601.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 1
+        },
+        {
+          "userName": "匿名用户",
+          "userPicUrl": "",
+          "userID": 0,
+          "commentTime": "2019-03-18",
+          "score": 1,
+          "deliveryTime": "31分钟送达",
+          "content": "菜品不满意 上面备注不要辣椒  还放辣椒",
+          "praiseDish": "",
+          "label": "其他",
+          "shopReply": "商家回复(1天后):亲真的是不好意思呢，我们这边的疏忽导致您未能正常用餐，我们这边是中式快餐店，可以建议您到店用餐，我们可以给您推荐您喜欢并且没有辣椒的菜品，真的是非常抱歉，点餐量高峰期我们也疏忽了看备注，接下来我们会注意，杜绝这种事情再次发生，谢谢您对大米厨房的支持，希望您能继续关注我们，我们会让您满意的，在这里大米厨房祝您心情愉快，万事如意",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/d1bff9a78adbd8f2346bec9c5da74da951627.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/d1bff9a78adbd8f2346bec9c5da74da951627.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/d1bff9a78adbd8f2346bec9c5da74da951627.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 1
+        },
+        {
+          "userName": "光膀子的少女",
+          "userPicUrl": "https://img.meituan.net/avatar/7d02ec3f23a89fce0306215c190cb49514109.jpg",
+          "userID": 179524462,
+          "commentTime": "2019-03-04",
+          "score": 2,
+          "deliveryTime": "24分钟送达",
+          "content": "比较失望把，个人觉得味道真心不咋样。豆腐不入味，红烧肉太柴",
+          "praiseDish": "金针菇,米饭",
+          "label": "快速准时,仪表整洁,穿戴工服,风雨无阻,货品完好,礼貌热情",
+          "shopReply": "商家回复(16天后):您好，真的是非常抱歉，非常感谢您的宝贵意见，我们会根据您的建议作进一步改善，对于这次，真的是非常不好意思，没能让您愉快用餐，您肯定也没有吃饱，接下来我们会注意，保证您下次能够愉快用餐，谢谢您一直以来对大米的的支持，祝您下次用餐愉快，",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/39c3cfa67e6b6f479c46c30d98da156d398641.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/39c3cfa67e6b6f479c46c30d98da156d398641.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/39c3cfa67e6b6f479c46c30d98da156d398641.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "匿名用户",
+          "userPicUrl": "",
+          "userID": 0,
+          "commentTime": "2019-03-03",
+          "score": 1,
+          "deliveryTime": "26分钟送达",
+          "content": "今天的蒸水蛋？都是碎的，像是被人搅拌吃剩又装进来了。还有手撕包菜今天也没熟，没味道，水煮的味道",
+          "praiseDish": "",
+          "label": "",
+          "shopReply": "商家回复(2天后):亲 真的是非常抱歉导致您没能愉快用餐，蒸鸡蛋是蛋羹一压就容易碎，我们可以建议您到店品尝，如有问题我们可以及时给您更换，菜品我们炒之前都过一遍油保证是熟食 ，你可以放心食用 ，菜品在菜档下加热热气蒸的可能颜色不是很好 这边我们也会注意，谢谢您的宝贵意见，同时也祝您工作如意，万事顺心",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/42e729e179732a43e84cb7392cb445fd40666.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/42e729e179732a43e84cb7392cb445fd40666.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/42e729e179732a43e84cb7392cb445fd40666.jpg@330w_330h_1e_1c"
+            },
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/b8506d171fabe3b1a71c5eedd00681e830137.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/b8506d171fabe3b1a71c5eedd00681e830137.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/b8506d171fabe3b1a71c5eedd00681e830137.jpg@330w_330h_1e_1c"
+            },
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/32530da432fa40eee641646238246bd331485.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/32530da432fa40eee641646238246bd331485.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/32530da432fa40eee641646238246bd331485.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 1
+        },
+        {
+          "userName": "匿名用户",
+          "userPicUrl": "",
+          "userID": 0,
+          "commentTime": "2019-03-01",
+          "score": 1,
+          "deliveryTime": "29分钟送达",
+          "content": "虽然是中午点的，但是菜不太新鲜，味道真的……失望\uD83D\uDE1E",
+          "praiseDish": "",
+          "label": "",
+          "shopReply": "商家回复(4天后):亲  真的是很抱歉哦，没能让您满意用餐，我们也是很难过呢，菜品保证新鲜 您可以放心使用，就您这张照片来看菜品是由于在档口加热时间过长导致而成，真的是抱歉呢 ，今后我们会注意 ，建议您到店品尝 如有不满我们会及时给您更换，为的就是大家能愉快用餐，谢谢您的理解，祝您心情愉快",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/f5934c29899647e7a570627413f64726264910.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/f5934c29899647e7a570627413f64726264910.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/f5934c29899647e7a570627413f64726264910.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 1
+        },
+        {
+          "userName": "匿名用户",
+          "userPicUrl": "",
+          "userID": 0,
+          "commentTime": "2019-02-28",
+          "score": 1,
+          "deliveryTime": "29分钟送达",
+          "content": "好吧，已经第二次了。。。明确标注过餐具，你又给我送了一个餐具，剩下的人又拿手抓嘛？？每个月在你家吃了不知道多少次，这种低级错误能不能改一改！！！！",
+          "praiseDish": "",
+          "label": "",
+          "shopReply": "商家回复(5天后):亲 首先给您说声抱歉， 同时也要感谢您一直以来对本店的支持，点单量高峰期由于我们的疏忽导致您没能有一个好的心情用餐，我们是需要负一大部分责任的，真的是非常不好意思 这种低级错误 我们会尽量避免，给大家一个美好的心情用餐，今后我们会让您满意的 请继续支持我们，祝您工作顺心 ，心情美哒哒",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/7a795b3bb1be21ef0f2b346510b8aacc216152.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/7a795b3bb1be21ef0f2b346510b8aacc216152.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/7a795b3bb1be21ef0f2b346510b8aacc216152.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 1
+        },
+        {
+          "userName": "LyU723034585",
+          "userPicUrl": "",
+          "userID": 237340531,
+          "commentTime": "2019-03-05",
+          "score": 1,
+          "deliveryTime": "22分钟送达",
+          "content": "米饭用黑盒装的都吃不下去，有一股味道，茄子老",
+          "praiseDish": "",
+          "label": "礼貌热情,仪表整洁,快速准时,难吃,不卫生",
+          "shopReply": "商家回复(14天后):亲，首先给您呢说声抱歉，对于这一批米饭盒我们再次给您说声不好意思，目前我们已经做了改换，菜品这边我们会监督好，保证下次您能有一个愉快的用餐心情，祝您生活愉快，欢迎您的再次光临",
+          "pictures": [],
+          "isAnonymous": 0
+        }
+      ],
+      "recordCount": 37973,
+      "startIndex": 0,
+      "nextStartIndex": 20,
+      "isEnd": false,
+      "shopId": 1178314984,
+      "mtWmPoiId": "1030956538112232",
+      "dpCommentNum": 0,
+      "PraiseRatio": "商家好评率95%",
+      "buzCode": 0,
+      "qualityScore": 4.2,
+      "packScore": 4.3,
+      "integratedScore": 4.3,
+      "shopScore": 4.3,
+      "deliveryScore": 4.9,
+      "commentLabels": [
+        { "content": "全部(37973)", "type": 1, "isSelected": 1, "ID": 0 },
+        { "content": "好评(36246)", "type": 1, "isSelected": 0, "ID": 1 },
+        { "content": "差评(917)", "type": 1, "isSelected": 0, "ID": 3 },
+        { "content": "有图评价(1086)", "type": 1, "isSelected": 0, "ID": 5 },
+        { "content": "味道赞(758)", "type": 2, "isSelected": 0, "ID": 75 },
+        { "content": "服务好(223)", "type": 2, "isSelected": 0, "ID": 39 },
+        { "content": "价格实惠(207)", "type": 2, "isSelected": 0, "ID": 61 },
+        { "content": "分量足(197)", "type": 2, "isSelected": 0, "ID": 50 },
+        { "content": "满意(193)", "type": 2, "isSelected": 0, "ID": 34 },
+        { "content": "菜品不错(152)", "type": 2, "isSelected": 0, "ID": 1 }
+      ]
+    },
+    "code": 0,
+    "msg": "成功"
+  },
+  {
+    "data": {
+      "list": [
+        {
+          "userName": "深海逃离计划",
+          "userPicUrl": "https://img.meituan.net/avatar/882d3b1edb1b60ada908df136352319125289.jpg",
+          "userID": 871630136,
+          "commentTime": "2019-03-23",
+          "score": 5,
+          "deliveryTime": "19分钟送达",
+          "content": "很好吃呀！尤其是酸菜鱼里面的粉丝",
+          "praiseDish": "老坛酸菜鱼",
+          "label": "礼貌热情,货品完好,快速准时,风雨无阻,仪表整洁,穿戴工服",
+          "pictures": [],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "mFg834685058",
+          "userPicUrl": "",
+          "userID": 241026478,
+          "commentTime": "2019-03-21",
+          "score": 5,
+          "deliveryTime": "26分钟送达",
+          "content": "上午的可以，下午订的难吃死了，太油腻了，让人吃不下去的餐",
+          "praiseDish": "牛肉鸡排咖喱饭,卤凤爪,台湾卤鸡蛋",
+          "label": "货品完好,仪表整洁",
+          "pictures": [],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "iPX673741265",
+          "userPicUrl": "",
+          "userID": 833201438,
+          "commentTime": "2019-03-23",
+          "score": 5,
+          "deliveryTime": "27分钟送达",
+          "content": "挺好的，，，，，",
+          "praiseDish": "",
+          "label": "风雨无阻,仪表整洁,礼貌热情,快速准时,穿戴工服,货品完好",
+          "pictures": [],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "QyM659974852",
+          "userPicUrl": "https://img.meituan.net/avatar/c7d2aa1cf0c5b4f0be749797c1aa7419100615.jpg",
+          "userID": 155638413,
+          "commentTime": "2019-03-20",
+          "score": 5,
+          "deliveryTime": "24分钟送达",
+          "content": "东西味道不错的速度也挺快的好评",
+          "praiseDish": "脆炸多汁鸡扒咖喱饭",
+          "label": "风雨无阻,穿戴工服,货品完好,快速准时,礼貌热情,仪表整洁",
+          "pictures": [],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "高山大智慧",
+          "userPicUrl": "https://img.meituan.net/avatar/6117d730dc60dc5fda6f66d1fba844f1128914.jpg",
+          "userID": 306224818,
+          "commentTime": "2019-03-22",
+          "score": 5,
+          "deliveryTime": "34分钟送达",
+          "content": "味道非常好\uD83D\uDC4D 我很满意 ",
+          "praiseDish": "伴鸡伴翅咖喱饭,台湾三杯鸡,虫草花红枣炖乌鸡,柠檬可乐,台湾卤鸡蛋",
+          "label": "",
+          "pictures": [],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "nov906271924",
+          "userPicUrl": "",
+          "userID": 421533081,
+          "commentTime": "2019-03-20",
+          "score": 5,
+          "deliveryTime": "21分钟送达",
+          "content": "汤都洒了怎么吃啊",
+          "praiseDish": "",
+          "label": "",
+          "pictures": [],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "anW389421635",
+          "userPicUrl": "",
+          "userID": 236050135,
+          "commentTime": "2019-02-16",
+          "score": 3,
+          "deliveryTime": "47分钟送达",
+          "content": "一般，没有鸡蛋，而且有些凉了",
+          "praiseDish": "",
+          "label": "穿戴工服,快速准时",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/b66d13583d52a5b8301162e2de4d23ce36395.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/b66d13583d52a5b8301162e2de4d23ce36395.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/b66d13583d52a5b8301162e2de4d23ce36395.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "二狗子嗷",
+          "userPicUrl": "https://img.meituan.net/avatar/d3f1618bfb07ce8cbcbfb3254c4b99d615656.jpg",
+          "userID": 2229509249,
+          "commentTime": "2019-03-07",
+          "score": 5,
+          "deliveryTime": "21分钟送达",
+          "content": "味道挺不错  个人认为没有店里面好吃",
+          "praiseDish": "菌菇汤,芝士胡椒鸡肉铁板饭",
+          "label": "",
+          "pictures": [],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "匿名用户",
+          "userPicUrl": "",
+          "userID": 0,
+          "commentTime": "2019-02-26",
+          "score": 5,
+          "deliveryTime": "27分钟送达",
+          "content": "特别好吃！分量也足！#石锅牛肉拌饭#",
+          "praiseDish": "石锅牛肉拌饭",
+          "label": "货品完好,快速准时,穿戴工服,风雨无阻,礼貌热情,仪表整洁",
+          "pictures": [],
+          "isAnonymous": 1
+        },
+        {
+          "userName": "匿名用户",
+          "userPicUrl": "",
+          "userID": 0,
+          "commentTime": "2019-03-04",
+          "score": 3,
+          "deliveryTime": "26分钟送达",
+          "content": "要的不辣的，但是有点辣",
+          "praiseDish": "",
+          "label": "穿戴工服,货品完好,礼貌热情,仪表整洁,风雨无阻,快速准时",
+          "pictures": [],
+          "isAnonymous": 1
+        },
+        {
+          "userName": "匿名用户",
+          "userPicUrl": "",
+          "userID": 0,
+          "commentTime": "2019-03-21",
+          "score": 1,
+          "deliveryTime": "15分钟送达",
+          "content": "快递倒是挺快的。货一点也不好，难吃死了。都没有吃。上午的饭还可以",
+          "praiseDish": "",
+          "label": "货品不完好",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/0674cf3f51c2b7b55be0f5db1f2b150168326.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/0674cf3f51c2b7b55be0f5db1f2b150168326.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/0674cf3f51c2b7b55be0f5db1f2b150168326.jpg@330w_330h_1e_1c"
+            },
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/12ebb8ab07ddfc338e16c7111fbd72cc63535.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/12ebb8ab07ddfc338e16c7111fbd72cc63535.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/12ebb8ab07ddfc338e16c7111fbd72cc63535.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 1
+        },
+        {
+          "userName": "学咖",
+          "userPicUrl": "https://img.meituan.net/avatar/b0e49b6608d9f44f6403f034d1d424d568456.jpg",
+          "userID": 225167493,
+          "commentTime": "2019-03-18",
+          "score": 1,
+          "deliveryTime": "24分钟送达",
+          "content": "说实话第一次给差评，首先都备注打包严实点还是没按备注来，汤洒的到处都是，吃饭吃的全是油就问店家自己心情会好。",
+          "praiseDish": "",
+          "label": "",
+          "pictures": [],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "匿名用户",
+          "userPicUrl": "",
+          "userID": 0,
+          "commentTime": "2019-02-27",
+          "score": 1,
+          "deliveryTime": "24分钟送达",
+          "content": "这鸡蛋叫我怎么吃，\uD83D\uDE13\uD83D\uDE13\uD83D\uDE13建议下次带个生鸡蛋过来",
+          "praiseDish": "",
+          "label": "",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/137cc69ce49533df7e3704a859a75b5667087.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/137cc69ce49533df7e3704a859a75b5667087.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/137cc69ce49533df7e3704a859a75b5667087.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 1
+        },
+        {
+          "userName": "Fym463888183",
+          "userPicUrl": "",
+          "userID": 287712221,
+          "commentTime": "2019-02-25",
+          "score": 1,
+          "deliveryTime": "42分钟送达",
+          "content": "不知道说什么了，最坑外卖，白豆腐上边添了点香菇酱，连炒都不炒，这也敢卖19#野菌樱虾豆腐#",
+          "praiseDish": "",
+          "label": "",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/61337195c4258626ed09c6e7c2548a77498687.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/61337195c4258626ed09c6e7c2548a77498687.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/61337195c4258626ed09c6e7c2548a77498687.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "匿名用户",
+          "userPicUrl": "",
+          "userID": 0,
+          "commentTime": "2019-02-21",
+          "score": 2,
+          "deliveryTime": "3分钟送达",
+          "content": "#石锅牛肉拌饭##石锅鸡丁拌饭# 凉了… 不好吃了… 而且为啥现在拌饭都一直没蛋了？ ",
+          "praiseDish": "",
+          "label": "",
+          "pictures": [],
+          "isAnonymous": 1
+        },
+        {
+          "userName": "匿名用户",
+          "userPicUrl": "",
+          "userID": 0,
+          "commentTime": "2019-02-22",
+          "score": 1,
+          "deliveryTime": "56分钟送达",
+          "content": "饭有点凉，而且，我在饭里吃到了骨头，差点噎到",
+          "praiseDish": "石锅培根拌饭",
+          "label": "其他",
+          "pictures": [],
+          "isAnonymous": 1
+        },
+        {
+          "userName": "军军7639",
+          "userPicUrl": "",
+          "userID": 2497408030,
+          "commentTime": "2019-03-20",
+          "score": 1,
+          "deliveryTime": "33分钟送达",
+          "content": "有推诿扯皮嫌疑！",
+          "praiseDish": "",
+          "label": "",
+          "pictures": [],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "fuv123180411",
+          "userPicUrl": "https://img.meituan.net/avatar/10a034e5d546f4a976491d198068c05810164.jpg",
+          "userID": 300024540,
+          "commentTime": "2019-01-27",
+          "score": 1,
+          "deliveryTime": "45分钟送达",
+          "content": "不匿名了 来说说我今天都遇到了啥事啊 我18:09下单订了#石锅牛肉拌饭##菌菇汤#两份餐 18:50送到了 我打开包装发现只有一份叉烧饭 打电话给商家 他说让我别动这份 等会再给我送我的那份（是还要加热之后卖吗？）二十分钟后 又给我打电话说让我直接吃了这份叉烧给我补差价 我说我放这么久都凉了你还不来给我换餐 我为什么吃啊？又过了一会儿大概七点半有个工作人员来了拿走了那份叉烧但是没给我送餐 又过了会儿 到了7:51 又给我打电话说给我送餐的那个人被车撞了送不了了（不知是真是假）所以要加我微信退钱 这时候我都饿了快俩小时了 但是想到被车撞也是意外事故可以理解就同意了 加了微信后他只退给我27 而我这一单是32 问了问才知道他不退餐盒费和配送费 我稍微说了几句 对方竟然还显示出不耐烦的态度要再退给我五块餐盒配送费 我忍无可忍就拉黑了 那五块钱我也不要了 应该还有些小细节我没说到 但这家真的态度太差了 真不把顾客当人是吧？",
+          "praiseDish": "",
+          "label": "送错餐",
+          "shopReply": "商家回复(1天后):首先感谢您的光临，给您造成的不便我们感到抱歉，我们会努力完善，为顾客提供更好的服务与美食，再次道歉不好意思。",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/c0277afb7765a04c018ccaab68afbfe7102771.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/c0277afb7765a04c018ccaab68afbfe7102771.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/c0277afb7765a04c018ccaab68afbfe7102771.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "匿名用户",
+          "userPicUrl": "",
+          "userID": 0,
+          "commentTime": "2019-03-04",
+          "score": 1,
+          "deliveryTime": "31分钟送达",
+          "content": "真是捣心情，卫生这个样子，以后不会再点了，差劲",
+          "praiseDish": "",
+          "label": "",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/6c439a76109d8152a998a815a65da91f347282.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/6c439a76109d8152a998a815a65da91f347282.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/6c439a76109d8152a998a815a65da91f347282.jpg@330w_330h_1e_1c"
+            },
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/bc9ed4d2fba369614e9073414cec311f279334.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/bc9ed4d2fba369614e9073414cec311f279334.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/bc9ed4d2fba369614e9073414cec311f279334.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 1
+        },
+        {
+          "userName": "匿名用户",
+          "userPicUrl": "",
+          "userID": 0,
+          "commentTime": "2019-03-09",
+          "score": 1,
+          "deliveryTime": "16分钟送达",
+          "content": "",
+          "praiseDish": "",
+          "label": "",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/be8fa8c8364bc0b812198fc3d532faf5208790.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/be8fa8c8364bc0b812198fc3d532faf5208790.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/be8fa8c8364bc0b812198fc3d532faf5208790.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 1
+        }
+      ],
+      "recordCount": 11608,
+      "startIndex": 0,
+      "nextStartIndex": 20,
+      "isEnd": false,
+      "shopId": 1178289316,
+      "mtWmPoiId": "896786054726820",
+      "dpCommentNum": 0,
+      "PraiseRatio": "商家好评率96%",
+      "buzCode": 0,
+      "qualityScore": 4.4,
+      "packScore": 4.4,
+      "integratedScore": 4.4,
+      "shopScore": 4.4,
+      "deliveryScore": 4.8,
+      "commentLabels": [
+        { "content": "全部(11608)", "type": 1, "isSelected": 1, "ID": 0 },
+        { "content": "好评(11234)", "type": 1, "isSelected": 0, "ID": 1 },
+        { "content": "差评(195)", "type": 1, "isSelected": 0, "ID": 3 },
+        { "content": "有图评价(229)", "type": 1, "isSelected": 0, "ID": 5 },
+        { "content": "味道赞(242)", "type": 2, "isSelected": 0, "ID": 75 },
+        { "content": "服务好(28)", "type": 2, "isSelected": 0, "ID": 39 },
+        { "content": "满意(24)", "type": 2, "isSelected": 0, "ID": 34 },
+        { "content": "分量足(17)", "type": 2, "isSelected": 0, "ID": 50 },
+        { "content": "包装好(11)", "type": 2, "isSelected": 0, "ID": 29 },
+        { "content": "推荐(8)", "type": 2, "isSelected": 0, "ID": 36 }
+      ]
+    },
+    "code": 0,
+    "msg": "成功"
+  },
+  {
+    "data": {
+      "list": [
+        {
+          "userName": "商子羽非羽",
+          "userPicUrl": "",
+          "userID": 1895143321,
+          "commentTime": "2019-03-19",
+          "score": 5,
+          "deliveryTime": "1小时7分钟送达",
+          "content": "#一盒都是小食A##热香橙#实在不好意思！给我家妹子点的夜宵！不在同一个地方。号码给写错了。配送员等了一个小时。辛苦店家配送员的二次配送了！东西到手还是热的！非常感谢！！\uD83C\uDF39\uD83C\uDF39\uD83C\uDF39\uD83C\uDF39\uD83C\uDF39",
+          "praiseDish": "一盒都是小食A,热香橙",
+          "label": "风雨无阻,仪表整洁,礼貌热情,货品完好,快速准时",
+          "pictures": [],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "丷大饺子",
+          "userPicUrl": "https://img.meituan.net/avatar/0775ed4ee8317fdbceedf4eadda845185354.jpg",
+          "userID": 170817762,
+          "commentTime": "2019-03-19",
+          "score": 5,
+          "deliveryTime": "30分钟送达",
+          "content": "吃的干干净净，还有小姐姐的画很可爱ớ ₃ờ",
+          "praiseDish": "椰香咖喱饭套餐",
+          "label": "货品完好,仪表整洁",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/57044255dd6060337f6dfe2d69c0835753453.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/57044255dd6060337f6dfe2d69c0835753453.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/57044255dd6060337f6dfe2d69c0835753453.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "牛牛伯伯",
+          "userPicUrl": "https://img.meituan.net/avatar/44482d672141667ac5b154799d3999cb419016.jpg",
+          "userID": 169373352,
+          "commentTime": "2019-03-12",
+          "score": 5,
+          "deliveryTime": "1小时13分钟送达",
+          "content": "提前25分送到，孩子都没到家，我是该高兴吗？汉堡凉了，薯条软了",
+          "praiseDish": "",
+          "label": "其他",
+          "shopReply": "商家回复(1天后):亲亲  真是十分抱歉  下次我们会注意的",
+          "pictures": [],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "来份儿外卖",
+          "userPicUrl": "https://img.meituan.net/avatar/574ea0d9616f76e2c4a55f99c2c3a27b15875.jpg",
+          "userID": 283082366,
+          "commentTime": "2019-02-05",
+          "score": 5,
+          "deliveryTime": "49分钟送达",
+          "content": "好给力的辣椒，不辣又香又脆，德克士的这个辣子鸡相当地道呢，虽然送餐时间很久，可以理解，感谢送餐的小姑娘大年初一跑那么远，辛苦了！祝大家新年快乐！都有美好的每天！",
+          "praiseDish": "",
+          "label": "",
+          "shopReply": "商家回复(15天后):我是德克士-信阳九方餐厅店长，很高兴为您服务，九方德克士餐厅期待您的下次光临。德克士的产品原物料统一专供,所有资质齐全,精选食材,我们专注于食品安全管理,让您吃得安全放心 .德克士---开心就要咔滋咔滋!",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/db2bc03d60bec6217104c868c0789263392916.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/db2bc03d60bec6217104c868c0789263392916.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/db2bc03d60bec6217104c868c0789263392916.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "by02270320",
+          "userPicUrl": "https://img.meituan.net/avatar/ef0166e6f35c812ecaa91b94b9f27b1d19377.jpg",
+          "userID": 287015690,
+          "commentTime": "2019-02-15",
+          "score": 5,
+          "deliveryTime": "38分钟送达",
+          "content": "相比較而言，很喜歡這家店，無論節假日或者天氣不好，外賣騎手不給力，店員都會主動承擔，並且及時送達。這樣的團隊，這樣的工作態度，非常值得稱讚。謝謝你們。",
+          "praiseDish": "照烧鸡腿饭",
+          "label": "快速准时,货品完好,礼貌热情,仪表整洁,风雨无阻",
+          "shopReply": "商家回复(5天后):我是德克士-信阳九方餐厅店长，很高兴为您服务，九方德克士餐厅期待您的下次光临。德克士的产品原物料统一专供,所有资质齐全,精选食材,我们专注于食品安全管理,让您吃得安全放心 .德克士---开心就要咔滋咔滋!",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/c3666b00cfe16739a361e7c37dfff78d56715.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/c3666b00cfe16739a361e7c37dfff78d56715.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/c3666b00cfe16739a361e7c37dfff78d56715.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "by02270320",
+          "userPicUrl": "https://img.meituan.net/avatar/ef0166e6f35c812ecaa91b94b9f27b1d19377.jpg",
+          "userID": 287015690,
+          "commentTime": "2019-02-04",
+          "score": 5,
+          "deliveryTime": "36分钟送达",
+          "content": "非常滿意，送來時都熱騰騰的，也很新鮮。謝謝你們，吉祥平安，新年快樂！",
+          "praiseDish": "照烧鸡腿饭,营养热豆浆,法式薯香蛋堡,黄金薯饼",
+          "label": "快速准时,仪表整洁,礼貌热情,货品完好",
+          "shopReply": "商家回复(16天后):我是德克士-信阳九方餐厅店长，很高兴为您服务，九方德克士餐厅期待您的下次光临。德克士的产品原物料统一专供,所有资质齐全,精选食材,我们专注于食品安全管理,让您吃得安全放心 .德克士---开心就要咔滋咔滋!",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/69a7612130097d4d7aca6b477bc3a48a65134.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/69a7612130097d4d7aca6b477bc3a48a65134.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/69a7612130097d4d7aca6b477bc3a48a65134.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "EbD996416407",
+          "userPicUrl": "https://img.meituan.net/avatar/751b360c054ceae4bcea7ef2ee75eb03191979.jpg",
+          "userID": 176890591,
+          "commentTime": "2019-03-21",
+          "score": 5,
+          "deliveryTime": "42分钟送达",
+          "content": "无限回购，味道好，最爱菠萝堡",
+          "praiseDish": "豪华菠萝堡单人餐",
+          "label": "",
+          "pictures": [],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "mZU247229207",
+          "userPicUrl": "",
+          "userID": 1135148702,
+          "commentTime": "2019-03-21",
+          "score": 5,
+          "deliveryTime": "34分钟送达",
+          "content": "#咔滋薯霸(中份)#女儿最爱吃的一家店 一份一会儿就见底了\uD83D\uDE02️",
+          "praiseDish": "国脆炸鸡(鸡腿),咔滋薯霸(中份)",
+          "label": "货品完好,快速准时,礼貌热情,风雨无阻,仪表整洁",
+          "pictures": [],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "匿名用户",
+          "userPicUrl": "",
+          "userID": 0,
+          "commentTime": "2019-03-23",
+          "score": 5,
+          "deliveryTime": "31分钟送达",
+          "content": "一般不评价 送餐速度可以  汉堡的肉腥 到吃不下#菠萝鸡腿堡#",
+          "praiseDish": "",
+          "label": "",
+          "pictures": [],
+          "isAnonymous": 1
+        },
+        {
+          "userName": "qSD235852256",
+          "userPicUrl": "",
+          "userID": 2272207886,
+          "commentTime": "2019-02-14",
+          "score": 4,
+          "deliveryTime": "1小时19分钟送达",
+          "content": "隔热保温的包装真的100分，但是#爆红辣子鸡#的味道一般，甚至有点不太好吃～",
+          "praiseDish": "",
+          "label": "风雨无阻,礼貌热情,仪表整洁,快速准时",
+          "shopReply": "商家回复(6天后):我是德克士-信阳九方餐厅店长，很高兴为您服务，九方德克士餐厅期待您的下次光临。德克士的产品原物料统一专供,所有资质齐全,精选食材,我们专注于食品安全管理,让您吃得安全放心 .德克士---开心就要咔滋咔滋!",
+          "pictures": [],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "匿名用户",
+          "userPicUrl": "",
+          "userID": 0,
+          "commentTime": "2019-03-09",
+          "score": 1,
+          "deliveryTime": "40分钟送达",
+          "content": "我现在真的是越来越佩服德克士了。每叫两次外卖必有一次有问题！！！我说了不要辣椒包 给我四个黑胡椒包 结果给了我四个辣椒包！！！我问你对于不吃辣椒的人来说给人家四个辣椒包让人怎么吃？",
+          "praiseDish": "",
+          "label": "送错餐",
+          "shopReply": "商家回复(2天后):我是德克士-信阳九方餐厅店长，很高兴为您服务，九方德克士餐厅期待您的下次光临。德克士的产品原物料统一专供,所有资质齐全,精选食材,我们专注于食品安全管理,让您吃得安全放心 .德克士---开心就要咔滋咔滋! 实在抱歉，给您带来不好的用餐体验，我们会加强培训，谢谢您对我们的支持！",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/5076bfc92904312b8a5f21661b8aef0f42732.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/5076bfc92904312b8a5f21661b8aef0f42732.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/5076bfc92904312b8a5f21661b8aef0f42732.jpg@330w_330h_1e_1c"
+            },
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/40e40d7acb51dfd83b8644464ec8f7bd33386.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/40e40d7acb51dfd83b8644464ec8f7bd33386.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/40e40d7acb51dfd83b8644464ec8f7bd33386.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 1
+        },
+        {
+          "userName": "匿名用户",
+          "userPicUrl": "",
+          "userID": 0,
+          "commentTime": "2019-03-18",
+          "score": 2,
+          "deliveryTime": "41分钟送达",
+          "content": "12点半点的，1点快20了才送到，卷的那一层酥皮饼已经咬不动了。外面20多度气温，两样东西有保温包着却凉了。头一次差评。",
+          "praiseDish": "",
+          "label": "配送慢",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/c73b45cb48cb20fda1541559bebeb6ad216405.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/c73b45cb48cb20fda1541559bebeb6ad216405.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/c73b45cb48cb20fda1541559bebeb6ad216405.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 1
+        },
+        {
+          "userName": "邢二鸢",
+          "userPicUrl": "https://img.meituan.net/avatar/9145571a90489394865f0093e516e4ec13602.jpg",
+          "userID": 165149582,
+          "commentTime": "2019-02-20",
+          "score": 3,
+          "deliveryTime": "31分钟送达",
+          "content": "我不想吐槽这个汉堡了  两片面包两片菜叶子加两块肉  肉还特别硬",
+          "praiseDish": "德克士鸡块/6块",
+          "label": "",
+          "shopReply": "商家回复(6天后):我是德克士-信阳九方餐厅店长，很高兴为您服务，九方德克士餐厅期待您的下次光临。德克士的产品原物料统一专供,所有资质齐全,精选食材,我们专注于食品安全管理,让您吃得安全放心 .德克士---开心就要咔滋咔滋!",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/faf5abcd5b2d261af2c66494ac4137ce38030.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/faf5abcd5b2d261af2c66494ac4137ce38030.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/faf5abcd5b2d261af2c66494ac4137ce38030.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "匿名用户",
+          "userPicUrl": "",
+          "userID": 0,
+          "commentTime": "2019-03-21",
+          "score": 2,
+          "deliveryTime": "47分钟送达",
+          "content": "照片忘记拍了，牛肉饭味道简直跟隔两天的剩饭一样，",
+          "praiseDish": "",
+          "label": "",
+          "pictures": [],
+          "isAnonymous": 1
+        },
+        {
+          "userName": "匿名用户",
+          "userPicUrl": "",
+          "userID": 0,
+          "commentTime": "2019-03-11",
+          "score": 1,
+          "deliveryTime": "44分钟送达",
+          "content": "你是在逗我吗？这样的可乐",
+          "praiseDish": "",
+          "label": "其他",
+          "shopReply": "商家回复(6天后):我是德克士-信阳九方餐厅店长，很高兴为您服务，九方德克士餐厅期待您的下次光临。德克士的产品原物料统一专供,所有资质齐全,精选食材,我们专注于食品安全管理,让您吃得安全放心 .德克士---开心就要咔滋咔滋! 外送的产品因为经过较长的时间到顾客手中，口感与外观会因时间而变化。实在抱歉！给您带来不愉快的用餐体验，餐品描述的是罐装可乐一瓶，如果不想要可乐，可以备注给您更换，谢谢！",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/5937bf20ee2055ec8c72f5b19402700625460.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/5937bf20ee2055ec8c72f5b19402700625460.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/5937bf20ee2055ec8c72f5b19402700625460.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 1
+        },
+        {
+          "userName": "匿名用户",
+          "userPicUrl": "",
+          "userID": 0,
+          "commentTime": "2019-02-19",
+          "score": 3,
+          "deliveryTime": "45分钟送达",
+          "content": "汉堡实在吃着一般。。。里面的鸡排硬硬的 没有鸡肉味 ，芝士爆浆挺多的 奶茶有点甜味道还行",
+          "praiseDish": "",
+          "label": "礼貌热情",
+          "shopReply": "商家回复(1天后):我是德克士-信阳九方餐厅店长，很高兴为您服务，九方德克士餐厅期待您的下次光临。德克士的产品原物料统一专供,所有资质齐全,精选食材,我们专注于食品安全管理,让您吃得安全放心 .德克士---开心就要咔滋咔滋!",
+          "pictures": [],
+          "isAnonymous": 1
+        },
+        {
+          "userName": "匿名用户",
+          "userPicUrl": "",
+          "userID": 0,
+          "commentTime": "2019-01-30",
+          "score": 2,
+          "deliveryTime": "46分钟送达",
+          "content": "汉堡就是两片切片，而且退订了就立马送餐了，打电话去店里，店里的回答也是绝了",
+          "praiseDish": "",
+          "label": "风雨无阻",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/e1d752cac91382f3c9b56d3be94e1ab844282.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/e1d752cac91382f3c9b56d3be94e1ab844282.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/e1d752cac91382f3c9b56d3be94e1ab844282.jpg@330w_330h_1e_1c"
+            },
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/7bd0497b582de4e9b8b55c748e9b784051188.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/7bd0497b582de4e9b8b55c748e9b784051188.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/7bd0497b582de4e9b8b55c748e9b784051188.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 1
+        },
+        {
+          "userName": "DBl386146501",
+          "userPicUrl": "https://img.meituan.net/avatar/6cb48efa3f604b0eb94e3eb342a289de15730.jpg",
+          "userID": 757902954,
+          "commentTime": "2019-03-16",
+          "score": 5,
+          "deliveryTime": "47分钟送达",
+          "content": "好评#德克士鸡块/6块##土耳其风味烤翅##咔滋薯霸（中份）#",
+          "praiseDish": "德克士鸡块/6块,土耳其风味烤翅,咔滋薯霸（中份）",
+          "label": "礼貌热情,货品完好,仪表整洁,风雨无阻",
+          "shopReply": "商家回复(1天后):我是德克士-信阳九方餐厅店长，很高兴为您服务，九方德克士餐厅期待您的下次光临。德克士的产品原物料统一专供,所有资质齐全,精选食材,我们专注于食品安全管理,让您吃得安全放心 .德克士---开心就要咔滋咔滋!",
+          "pictures": [],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "bSA985713986",
+          "userPicUrl": "",
+          "userID": 201900515,
+          "commentTime": "2019-03-02",
+          "score": 3,
+          "deliveryTime": "42分钟送达",
+          "content": "1、不要黑胡椒粉的，还拿了2包黑胡椒粉；2、到门口要打电话的，非要敲门敲半天。。。",
+          "praiseDish": "",
+          "label": "",
+          "shopReply": "商家回复(3天后):我是德克士-信阳九方餐厅店长，很高兴为您服务，九方德克士餐厅期待您的下次光临。德克士的产品原物料统一专供,所有资质齐全,精选食材,我们专注于食品安全管理,让您吃得安全放心 .德克士---开心就要咔滋咔滋!",
+          "pictures": [],
+          "isAnonymous": 0
+        },
+        {
+          "userName": "超爱吃的小吴",
+          "userPicUrl": "https://img.meituan.net/avatar/767ebe831dbb10a52546c01d581ddf7d84598.jpg",
+          "userID": 2212550834,
+          "commentTime": "2019-02-01",
+          "score": 5,
+          "deliveryTime": "37分钟送达",
+          "content": "我爱巧克力鱼！！！太好吃了叭！#酱烧肥牛酥皮卷#一般般",
+          "praiseDish": "脆皮炸鸡(鸡腿),巧克力卡仕达鲷鱼烧",
+          "label": "",
+          "shopReply": "商家回复(19天后):我是德克士-信阳九方餐厅店长，很高兴为您服务，九方德克士餐厅期待您的下次光临。德克士的产品原物料统一专供,所有资质齐全,精选食材,我们专注于食品安全管理,让您吃得安全放心 .德克士---开心就要咔滋咔滋!",
+          "pictures": [
+            {
+              "originalPicUrl": "http://p0.meituan.net/wmcomment/34fb31dc69c0010027e84015b39bf497417533.jpg",
+              "smallPicUrl": "http://p0.meituan.net/wmcomment/34fb31dc69c0010027e84015b39bf497417533.jpg@160w_160h_1e_1c",
+              "bigPicUrl": "http://p0.meituan.net/wmcomment/34fb31dc69c0010027e84015b39bf497417533.jpg@330w_330h_1e_1c"
+            }
+          ],
+          "isAnonymous": 0
+        }
+      ],
+      "recordCount": 21947,
+      "startIndex": 0,
+      "nextStartIndex": 20,
+      "isEnd": false,
+      "shopId": 1178328918,
+      "mtWmPoiId": "844722461204310",
+      "dpCommentNum": 0,
+      "PraiseRatio": "商家好评率95%",
+      "buzCode": 0,
+      "qualityScore": 4.5,
+      "packScore": 4.7,
+      "integratedScore": 4.5,
+      "shopScore": 4.5,
+      "deliveryScore": 4.8,
+      "commentLabels": [
+        { "content": "全部(21947)", "type": 1, "isSelected": 1, "ID": 0 },
+        { "content": "好评(21062)", "type": 1, "isSelected": 0, "ID": 1 },
+        { "content": "差评(494)", "type": 1, "isSelected": 0, "ID": 3 },
+        { "content": "有图评价(454)", "type": 1, "isSelected": 0, "ID": 5 },
+        { "content": "味道赞(456)", "type": 2, "isSelected": 0, "ID": 75 },
+        { "content": "满意(142)", "type": 2, "isSelected": 0, "ID": 34 },
+        { "content": "服务好(125)", "type": 2, "isSelected": 0, "ID": 39 },
+        { "content": "分量足(39)", "type": 2, "isSelected": 0, "ID": 50 },
+        { "content": "家人喜欢(30)", "type": 2, "isSelected": 0, "ID": 83 },
+        { "content": "包装好(25)", "type": 2, "isSelected": 0, "ID": 29 }
+      ]
+    },
+    "code": 0,
+    "msg": "成功"
+  }
+]

@@ -6,8 +6,12 @@ mongoose.connect(config.db.url, { useNewUrlParser: true });
 
 const db = mongoose.connection;
 
-mongoose.connection.on('connected', () => {
+mongoose.connection.on('connected', async () => {
   console.log( chalk.green('数据库连接成功') );
+  await db.dropCollection('stores');
+  await db.dropCollection('comments');
+  await db.dropCollection('storeinfos');
+  console.log( chalk.red('删除成功') );
 }); 
 
 db.on('error', (err) => {

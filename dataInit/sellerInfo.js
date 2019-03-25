@@ -1,6 +1,5 @@
 module.exports = [
   {
-    "id": 1,
     "name": "粥品香坊（回龙观）",
     "description": "蜂鸟专送",
     "deliveryTime": 38,
@@ -17,11 +16,11 @@ module.exports = [
     "supports": [
       {
         "type": 1,
-        "description": "VC无限橙果汁全场8折"
+        "description": "VC无限橙果汁全场7折"
       },
       {
         "type": 0,
-        "description": "在线支付满28减5"
+        "description": "在线支付满23减5"
       },
       {
         "type": 2,
@@ -48,16 +47,15 @@ module.exports = [
       "品类:其他菜系,包子粥店",
       "北京市昌平区回龙观西大街龙观置业大厦底商B座102单元1340",
       "营业时间:10:00-20:30"
-    ]
+    ],
   },
   {
-    "id": 2,
     "name": "华莱士炸鸡汉堡（平西街店）",
     "description": "美团外卖",
     "deliveryTime": 30,
-    "score": 8,
-    "serviceScore": 8,
-    "foodScore": 7,
+    "score": 4.5,
+    "serviceScore": 4.1,
+    "foodScore": 3.4,
     "rankRate": 69.2,
     "minPrice": 20,
     "deliveryPrice": 4,
@@ -82,13 +80,12 @@ module.exports = [
     ]
   },
   {
-    "id": 3,
     "name": "CoCo都可（平桥丽宝店）",
     "description": "美团外卖",
     "deliveryTime": 30,
-    "score": 8,
-    "serviceScore": 8,
-    "foodScore": 7,
+    "score": 3.6,
+    "serviceScore": 4,
+    "foodScore": 3.4,
     "rankRate": 69.2,
     "minPrice": 20,
     "deliveryPrice": 4,
@@ -97,6 +94,18 @@ module.exports = [
     "distance":"1.1km",
     "bulletin": "网上订餐，优惠不断，活动多多。饮品现制，为了给您一个良好的消费体验,请您高峰期提前下单，多谢配合。CoCo期待您的光临！",
     "supports": [
+      {
+        "type": 1,
+        "description": "奶茶全场7折"
+      },
+      {
+        "type": 0,
+        "description": "在线支付满10减5"
+      },
+      {
+        "type": 3,
+        "description": "该商家支持发票,请下单写好发票抬头"
+      }
     ],
     "avatar": "http://p1.meituan.net/waimaipoi/1e69534f6b184a00db13ae8386c3fb4836392.jpg",
     "pics": [
@@ -110,13 +119,12 @@ module.exports = [
     ]
   },
   {
-    "id": 4,
     "name": "麻哥辣妹麻辣烫",
     "description": "美团外卖",
     "deliveryTime": 15,
-    "score": 8.1,
-    "serviceScore": 8,
-    "foodScore": 7,
+    "score": 4.9,
+    "serviceScore": 4.7,
+    "foodScore": 4.5,
     "rankRate": 69.2,
     "minPrice": 15,
     "deliveryPrice": 4,
@@ -125,6 +133,18 @@ module.exports = [
     "distance":"1.1km",
     "bulletin": "",
     "supports": [
+      {
+        "type": 1,
+        "description": "全场饮料5折"
+      },
+      {
+        "type": 0,
+        "description": "在线支付满30减10"
+      },
+      {
+        "type": 3,
+        "description": "该商家支持发票,请下单写好发票抬头"
+      }
     ],
     "avatar": "http://p0.meituan.net/waimaipoi/4c78f294b8e0996bc936c35bf98656eb38912.jpg",
     "pics": [

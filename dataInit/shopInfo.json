@@ -1,0 +1,415 @@
+[
+  {
+    "data": {
+      "activityList": [
+        {
+          "actName": "",
+          "actDesc": "折扣商品5折起(在线支付专享)",
+          "actType": 0,
+          "iconText": "",
+          "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png"
+        },
+        {
+          "actName": "",
+          "actDesc": "该商家支持在线支付",
+          "actType": 0,
+          "iconText": "",
+          "iconUrl": "http://p1.meituan.net/xianfu/32200c3060be7903f62c9076308619ee734.png"
+        },
+        {
+          "actName": "",
+          "actDesc": "本店支持开发票，开票金额0元起",
+          "actType": 0,
+          "iconText": "",
+          "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png"
+        }
+      ],
+      "dpShopId": 0,
+      "invoiceMsg": "本店支持开发票，开票金额0元起",
+      "invoiceSupport": 1,
+      "licencePics": [],
+      "poiQualificationInfo": {
+        "show": true,
+        "content": "查看食品安全档案",
+        "url": "http://i.waimai.meituan.com/poi/qualification/1101076174158946"
+      },
+      "mtWmPoiId": "1101076173700194",
+      "onlinePay": 1,
+      "overtimePaymentSupported": false,
+      "isBrand": 1,
+      "brandMsg": "该商户为品牌商户",
+      "serTime": ["00:00-04:00", "05:45-23:59"],
+      "shopAddress": "信阳市联华银珠广场1-2层",
+      "shopEnvTitle": "商家环境",
+      "shopName": "肯德基宅急送（银珠店）",
+      "shopPhone": ["4009208801"],
+      "shopReviewTitle": "点评评价",
+      "shopStar": 47,
+      "sold": "0",
+      "tip": "欢迎光临肯德基宅急送，专业外送，全程保温，准时送达！",
+      "shopLat": 3.2122982e7,
+      "shopLng": 1.1407332e8
+    },
+    "code": 0,
+    "msg": "成功"
+  },
+  {
+    "data": {
+      "activityList": [
+        {
+          "actName": "",
+          "actDesc": "该商家支持在线支付",
+          "actType": 0,
+          "iconText": "",
+          "iconUrl": "http://p1.meituan.net/xianfu/32200c3060be7903f62c9076308619ee734.png"
+        },
+        {
+          "actName": "",
+          "actDesc": "本店支持开发票，开票金额0元起",
+          "actType": 0,
+          "iconText": "",
+          "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png"
+        }
+      ],
+      "dpShopId": 0,
+      "invoiceMsg": "本店支持开发票，开票金额0元起",
+      "invoiceSupport": 1,
+      "licencePics": [],
+      "poiQualificationInfo": {
+        "show": true,
+        "content": "查看食品安全档案",
+        "url": "http://i.waimai.meituan.com/poi/qualification/904959377479779"
+      },
+      "mtWmPoiId": "904959377479779",
+      "onlinePay": 1,
+      "overtimePaymentSupported": false,
+      "isBrand": 1,
+      "brandMsg": "该商户为品牌商户",
+      "serTime": ["09:30-22:00"],
+      "shopAddress": "浉河区万家灯火13号楼112号",
+      "shopEnvTitle": "商家环境",
+      "shopName": "CoCo都可(河南信阳万家灯火店)",
+      "shopPhone": ["17737035139"],
+      "shopReviewTitle": "点评评价",
+      "shopStar": 48,
+      "sold": "0",
+      "tip": "给您最好的服务！期待您的光临！饮品现制，请提前下单哦！我们在CoCo都可万家灯火店 等你哦！",
+      "shopLat": 3.2127592e7,
+      "shopLng": 1.1408094e8
+    },
+    "code": 0,
+    "msg": "成功"
+  },
+  {
+    "data": {
+      "activityList": [
+        {
+          "actName": "",
+          "actDesc": "满30减8;满45减10(在线支付专享)",
+          "actType": 0,
+          "iconText": "",
+          "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png"
+        },
+        {
+          "actName": "",
+          "actDesc": "折扣商品4.33折起(在线支付专享)",
+          "actType": 0,
+          "iconText": "",
+          "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png"
+        },
+        {
+          "actName": "",
+          "actDesc": "该商家支持在线支付",
+          "actType": 0,
+          "iconText": "",
+          "iconUrl": "http://p1.meituan.net/xianfu/32200c3060be7903f62c9076308619ee734.png"
+        },
+        {
+          "actName": "",
+          "actDesc": "本店支持开发票，开票金额0元起",
+          "actType": 0,
+          "iconText": "",
+          "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png"
+        }
+      ],
+      "dpShopId": 0,
+      "invoiceMsg": "本店支持开发票，开票金额0元起",
+      "invoiceSupport": 1,
+      "licencePics": [],
+      "poiQualificationInfo": {
+        "show": true,
+        "content": "查看食品安全档案",
+        "url": "http://i.waimai.meituan.com/poi/qualification/1113243816539452"
+      },
+      "mtWmPoiId": "1113243816539452",
+      "onlinePay": 1,
+      "overtimePaymentSupported": false,
+      "isBrand": 0,
+      "serTime": ["10:00-14:10", "14:11-21:30"],
+      "shopAddress": "信阳市浉河区工区路556号（二道牌菜场入口隔壁）",
+      "shopEnvTitle": "商家环境",
+      "shopName": "这家小店（旗舰店）",
+      "shopPhone": ["13353693200", "13273768777"],
+      "shopReviewTitle": "点评评价",
+      "shopStar": 43,
+      "sold": "0",
+      "tip": "\uD83D\uDC49米饭要单点，本店所有菜品不含米饭。\uD83D\uDC48\uD83D\uDC48",
+      "shopLat": 3.2122158e7,
+      "shopLng": 1.14088256e8
+    },
+    "code": 0,
+    "msg": "成功"
+  },
+  {
+    "data": {
+      "activityList": [
+        {
+          "actName": "",
+          "actDesc": "满30减3;满50减6;满100减12(在线支付专享)",
+          "actType": 0,
+          "iconText": "",
+          "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png"
+        },
+        {
+          "actName": "",
+          "actDesc": "折扣商品5.45折起(在线支付专享)",
+          "actType": 0,
+          "iconText": "",
+          "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png"
+        },
+        {
+          "actName": "",
+          "actDesc": "该商家支持在线支付",
+          "actType": 0,
+          "iconText": "",
+          "iconUrl": "http://p1.meituan.net/xianfu/32200c3060be7903f62c9076308619ee734.png"
+        }
+      ],
+      "dpShopId": 0,
+      "invoiceMsg": "",
+      "invoiceSupport": 0,
+      "licencePics": [],
+      "poiQualificationInfo": {
+        "show": true,
+        "content": "查看食品安全档案",
+        "url": "http://i.waimai.meituan.com/poi/qualification/978179979970858"
+      },
+      "mtWmPoiId": "978179979970858",
+      "onlinePay": 1,
+      "overtimePaymentSupported": false,
+      "isBrand": 0,
+      "serTime": ["00:00-01:55", "11:11-23:59"],
+      "shopAddress": "天润广场万家灯火美食城负一楼",
+      "shopEnvTitle": "商家环境",
+      "shopName": "徐记串天下（烧烤、炒米面粉）",
+      "shopPhone": ["15839760679", "13939715245"],
+      "shopReviewTitle": "点评评价",
+      "shopStar": 42,
+      "sold": "0",
+      "tip": "美食美味串天下！应有尽有串天下！没有最好！只有更好！一直被模仿！从未被超越！欢迎到店品尝！步行街正对面万家灯火美食城负一楼！到店满二百送啤酒一箱！",
+      "shopLat": 3.2126194e7,
+      "shopLng": 1.1407843e8
+    },
+    "code": 0,
+    "msg": "成功"
+  },
+  {
+    "data": {
+      "activityList": [
+        {
+          "actName": "",
+          "actDesc": "满20减5;满30减7;满40减9(在线支付专享)",
+          "actType": 0,
+          "iconText": "",
+          "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png"
+        },
+        {
+          "actName": "",
+          "actDesc": "折扣商品8折起(在线支付专享)",
+          "actType": 0,
+          "iconText": "",
+          "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png"
+        },
+        {
+          "actName": "",
+          "actDesc": "该商家支持在线支付",
+          "actType": 0,
+          "iconText": "",
+          "iconUrl": "http://p1.meituan.net/xianfu/32200c3060be7903f62c9076308619ee734.png"
+        }
+      ],
+      "dpShopId": 0,
+      "invoiceMsg": "",
+      "invoiceSupport": 0,
+      "licencePics": [],
+      "poiQualificationInfo": {
+        "show": true,
+        "content": "查看食品安全档案",
+        "url": "http://i.waimai.meituan.com/poi/qualification/848656651240329"
+      },
+      "mtWmPoiId": "848656651240329",
+      "onlinePay": 1,
+      "overtimePaymentSupported": false,
+      "isBrand": 0,
+      "serTime": ["11:00-21:00"],
+      "shopAddress": "河南省信阳市浉河区胜利路138号（胜利北路步行街西亚生活广场后门超市出口旁）",
+      "shopEnvTitle": "商家环境",
+      "shopName": "好口福过桥米线",
+      "shopPhone": ["13661101967"],
+      "shopReviewTitle": "点评评价",
+      "shopStar": 0,
+      "sold": "0",
+      "tip": "本店 锅底 均 含有素菜: 鹌鹑蛋、木耳、千张、绿豆芽、金针菇、油麦菜。 ♦如果素菜有哪样不吃，可备注不放。 ♦如需 小料（麻油、 醋、 辣椒油） 请备注。   ♦本店 所有 丸子 均以切片。",
+      "shopLat": 3.2125678e7,
+      "shopLng": 1.14076393e8
+    },
+    "code": 0,
+    "msg": "成功"
+  },
+  {
+    "data": {
+      "activityList": [
+        {
+          "actName": "",
+          "actDesc": "该商家支持在线支付",
+          "actType": 0,
+          "iconText": "",
+          "iconUrl": "http://p1.meituan.net/xianfu/32200c3060be7903f62c9076308619ee734.png"
+        },
+        {
+          "actName": "",
+          "actDesc": "本店支持开发票，开票金额100元起",
+          "actType": 0,
+          "iconText": "",
+          "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png"
+        }
+      ],
+      "dpShopId": 0,
+      "invoiceMsg": "本店支持开发票，开票金额100元起",
+      "invoiceSupport": 1,
+      "licencePics": [],
+      "poiQualificationInfo": {
+        "show": true,
+        "content": "查看食品安全档案",
+        "url": "http://i.waimai.meituan.com/poi/qualification/1030956538112232"
+      },
+      "mtWmPoiId": "1030956538112232",
+      "onlinePay": 1,
+      "overtimePaymentSupported": false,
+      "isBrand": 0,
+      "serTime": ["10:00-20:15"],
+      "shopAddress": "信阳市浉河区万家灯火城市广场15栋负一层P87号",
+      "shopEnvTitle": "商家环境",
+      "shopName": "大米厨房中式快餐",
+      "shopPhone": ["18003761079", "18037607061"],
+      "shopReviewTitle": "点评评价",
+      "shopStar": 43,
+      "sold": "0",
+      "tip": "亲\uD83D\uDE1A点炒菜的时候不要忘了点米饭\uD83C\uDF5A呦,只有套餐是内含米饭的。本店可提供团体订餐，可提供正规发票！大额团队餐请下预订单~",
+      "shopLat": 3.2126185e7,
+      "shopLng": 1.14080562e8
+    },
+    "code": 0,
+    "msg": "成功"
+  },
+  {
+    "data": {
+      "activityList": [
+        {
+          "actName": "",
+          "actDesc": "该商家支持在线支付",
+          "actType": 0,
+          "iconText": "",
+          "iconUrl": "http://p1.meituan.net/xianfu/32200c3060be7903f62c9076308619ee734.png"
+        }
+      ],
+      "dpShopId": 0,
+      "invoiceMsg": "",
+      "invoiceSupport": 0,
+      "licencePics": [],
+      "poiQualificationInfo": {
+        "show": true,
+        "content": "查看食品安全档案",
+        "url": "http://i.waimai.meituan.com/poi/qualification/896786054726820"
+      },
+      "mtWmPoiId": "896786054726820",
+      "onlinePay": 1,
+      "overtimePaymentSupported": false,
+      "isBrand": 0,
+      "serTime": ["10:30-20:30"],
+      "shopAddress": "文化宫内",
+      "shopEnvTitle": "商家环境",
+      "shopName": "茉莉学堂",
+      "shopPhone": ["0376-6229510"],
+      "shopReviewTitle": "点评评价",
+      "shopStar": 44,
+      "sold": "0",
+      "tip": "茉莉学堂新品已更新 明炉烧鸭、肉燥饭、剁椒牛肉、一品素、各类营养蒸汤  欢迎品尝",
+      "shopLat": 3.212444e7,
+      "shopLng": 1.14074832e8
+    },
+    "code": 0,
+    "msg": "成功"
+  },
+  {
+    "data": {
+      "activityList": [
+        {
+          "actName": "",
+          "actDesc": "满20减3;满30减8;满45减12(在线支付专享)",
+          "actType": 0,
+          "iconText": "",
+          "iconUrl": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png"
+        },
+        {
+          "actName": "",
+          "actDesc": "折扣商品2.9折起(在线支付专享)",
+          "actType": 0,
+          "iconText": "",
+          "iconUrl": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png"
+        },
+        {
+          "actName": "",
+          "actDesc": "该商家支持在线支付",
+          "actType": 0,
+          "iconText": "",
+          "iconUrl": "http://p1.meituan.net/xianfu/32200c3060be7903f62c9076308619ee734.png"
+        },
+        {
+          "actName": "",
+          "actDesc": "本店支持开发票，开票金额0元起",
+          "actType": 0,
+          "iconText": "",
+          "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png"
+        }
+      ],
+      "dpShopId": 0,
+      "invoiceMsg": "本店支持开发票，开票金额0元起",
+      "invoiceSupport": 1,
+      "licencePics": [],
+      "poiQualificationInfo": {
+        "show": true,
+        "content": "查看食品安全档案",
+        "url": "http://i.waimai.meituan.com/poi/qualification/844722461204310"
+      },
+      "mtWmPoiId": "844722461204310",
+      "onlinePay": 1,
+      "overtimePaymentSupported": false,
+      "isBrand": 1,
+      "brandMsg": "该商户为品牌商户",
+      "serTime": ["07:30-23:30"],
+      "shopAddress": "信阳市羊山新区楚王城九方购物广场",
+      "shopEnvTitle": "商家环境",
+      "shopName": "德克士（九方购物广场店）",
+      "shopPhone": ["03763210678"],
+      "shopReviewTitle": "点评评价",
+      "shopStar": 45,
+      "sold": "0",
+      "tip": "欢迎光临德克士，订餐如遇问题请及时致电餐厅，方便为您解决问题！谢谢您的光临！",
+      "shopLat": 3.2123196e7,
+      "shopLng": 1.14096664e8
+    },
+    "code": 0,
+    "msg": "成功"
+  }
+]

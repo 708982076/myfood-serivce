@@ -5,10 +5,11 @@ const Schama = mongoose.Schema;
 const userSchema = new Schama({
   username: String,
   password: String,
-  id: Number,
   create_time: String,
   avatar: String,
   city: String
+},{
+  versionKey: false
 });
 const User = mongoose.model('User', userSchema);
 

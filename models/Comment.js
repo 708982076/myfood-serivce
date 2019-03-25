@@ -1,12 +1,14 @@
 import mongoose from 'mongoose';
 
-const Schama = mongoose.Schema;
+const Schema = mongoose.Schema;
 
-const commentSchama = new Schama({
-  id: Number,
+const commentSchema = new Schema({
+  labels: Array,
   comments: Array
+},{
+  versionKey: false,
 })
 
-const Comment = mongoose.model('comment', commentSchama);
+const Comment = mongoose.model('comment', commentSchema);
 
 export default Comment;
