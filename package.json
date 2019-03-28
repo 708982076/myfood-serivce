@@ -15,12 +15,12 @@
     "body-parser": "^1.18.3",
     "chalk": "^2.4.2",
     "express": "^4.16.4",
-    "mongoose": "^5.4.19"
-  },
-  "devDependencies": {
+    "mongoose": "^5.4.19",
     "@babel/core": "^7.3.4",
     "@babel/plugin-transform-modules-commonjs": "^7.2.0",
-    "@babel/register": "^7.0.0",
+    "@babel/register": "^7.0.0"
+  },
+  "devDependencies": {
     "nodemon": "^1.18.10"
   },
   "babel": {
