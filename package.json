@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "myfood",
   "scripts": {
-    "dev": "nodemon index.js"
+    "dev": "nodemon index.js",
+    "start": "node index.js"
   },
   "keywords": [
     "node express mongo web"

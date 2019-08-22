@@ -21,7 +21,7 @@ class Store extends Base {
       const stores = await store.find();
       const filtered = stores.filter( store => {
         const name = store.name;
-        return name.includes(keyword);
+        return new RegExp(keyword, 'gim').test(name);
       } );
       if (filtered.length > 0) {
         return res.send({
