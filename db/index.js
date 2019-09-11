@@ -2,7 +2,7 @@ import mongoose from 'mongoose';
 import config from '../config';
 import chalk from 'chalk';
 
-mongoose.connect(config.db.url, { useNewUrlParser: true });
+mongoose.connect(config.db.url, { useNewUrlParser: true, useUnifiedTopology:true});
 
 const db = mongoose.connection;
 
@@ -18,7 +18,7 @@ db.on('error', (err) => {
 
 db.on('close', () => {
   console.log( chalk.red('数据库已关闭') );
-  mongoose.connect(config.db.url, { useNewUrlParser: true });
+  mongoose.connect(config.db.url, { useNewUrlParser: true, useUnifiedTopology:true});
 })
 
 export default mongoose;
