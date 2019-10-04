@@ -45,7 +45,12 @@ class Store extends Base {
   async getStoreInfo(req, res) {
     const { id } = req.query;
     try {
-      const info = await storeInfoModel.findOne({ _id: id });
+      let info;
+      if (!id) {
+        info = await storeInfoModel.find();
+      }else {
+        info = await storeInfoModel.findOne({ _id: id });
+      }
       if (info) {
         res.send({
           code: 0,
@@ -68,7 +73,14 @@ class Store extends Base {
   async getComment(req, res) {
     const { id } = req.query;
     try {
-      const comment = await commentModel.findOne({ _id: id });
+      let comment;
+
+      if (!id) {
+        comment = await commentModel.find();
+      }else {
+        comment = await commentModel.findOne({ _id: id });
+      }
+
       if (comment) {
         res.send({
           code: 0,
