@@ -6,7 +6,7 @@ import routes from "./routes";
 import "./db";
 
 const app = express();
-app.use(express.static(__dirname + "/assets"));
+app.use("/assets", express.static("assets"));
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 app.use((req, res, next) => {
