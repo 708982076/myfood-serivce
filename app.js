@@ -2,8 +2,8 @@ import express from "express";
 import config from "./config";
 import chalk from "chalk";
 import bodyParser from "body-parser";
-import db from "./db";
 import routes from "./routes";
+import "./db";
 
 const app = express();
 app.use(express.static(__dirname + "/assets"));
